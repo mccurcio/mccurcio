@@ -1,10 +1,8 @@
 
-<p align="center">
 > What you think, you become.  
 > What you imagine, you create.  
 >  
 > Gautama Buddha   
-</p>
 
 ![Cliff Walk, Newport, R.I.](https://github.com/mccurcio/mccurcio/blob/main/header-bg.jpg)
 
