@@ -1,4 +1,4 @@
-![Cliff Walk, Newport, R.I.](https://github.com/mccat cliff walk.png)
+![Cliff Walk, Newport, R.I.](https://github.com/mccurcio/mccurcio.old.landing.page/blob/master/assets/img/header-bg.jpg)
 
 <p>
   <h1 align="center"><b>Hello, I'm Matthew Curcio</b></h1>
