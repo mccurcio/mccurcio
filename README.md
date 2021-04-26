@@ -13,9 +13,7 @@
 
 <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
 
-<a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-
-<a href="https://dev.to/yuridevat"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo" /></a>&nbsp;
+<a href="https://dev.to/mccurcio"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo" /></a>&nbsp;
 </p>
 
 <br />
@@ -25,10 +23,11 @@
 </p>
 <br />
 
-- I'm currently working ... on my portfolio and an app for rescuing abandoned animals in Rumania using React
-- I’m currently learning Python Django using 
-- I’m looking to collaborate with ... someone who is Pythona and Data Science
-- Ask me about ... my passion for film, jazz, rock & roll and travel.
+- I'm currently working on a Python Django project for native versus invasive plants
+- I’m currently learning Python Django using [Django Crash Course by Daniel & Audrey Roy Greenfeld](https://www.roygreenfeld.com/products/django-crash-course) along with [Monetizing Machine
+Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Serverless/dp/1484238729)
+- I’m looking to collaborate with someone who is working on Python and/or Data Science.
+- I have several passions, teaching, learning Python, film, jazz, rock & roll and travel.
 - Fact: I traveled to the two lowest places on earth. 
 
 <br />
@@ -69,9 +68,7 @@
 <br />
 
 <p align="center">
-<a href="https://github.com/YuriDevAT/pokedex">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=pokedex&theme=tokyonight" />
-</a>
+
 <a href="https://github.com/YuriDevAT/budget-planner">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=budget-planner&theme=tokyonight" />
 </a>
@@ -89,7 +86,6 @@
 
 
 <!--
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
