@@ -1,6 +1,11 @@
 ![Cliff Walk, Newport, R.I.](https://github.com/mccurcio/mccurcio.old.landing.page/blob/master/assets/img/header-bg.jpg)
 
 <p>
+>What you think, you become.
+>What you imagine, you create.
+>
+> Buddha 
+
   <h1 align="center"><b>Hello, I'm Matthew Curcio</b></h1>
 </p>
 
