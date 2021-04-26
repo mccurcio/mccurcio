@@ -1,9 +1,10 @@
-![Cliff Walk, Newport, R.I.](https://github.com/mccurcio/mccurcio/blob/main/header-bg.jpg)
 
 > What you think, you become.  
 > What you imagine, you create.  
 >  
 > Buddha   
+
+![Cliff Walk, Newport, R.I.](https://github.com/mccurcio/mccurcio/blob/main/header-bg.jpg)
 
 **Hello, I'm Matthew Curcio**
 
@@ -70,7 +71,7 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 <p align="center">
 
 <a href="https://github.com/YuriDevAT/budget-planner">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=budget-planner&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mccurcio&repo=budget-planner&theme=tokyonight" />
 </a>
 </p>
 
@@ -79,8 +80,8 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 <br />
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=mccurcio&theme=radical&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mccurcio&layout=compact&theme=radical" />
 </p>
 
 
