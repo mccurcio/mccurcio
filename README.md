@@ -2,7 +2,7 @@
 > What you think, you become.  
 > What you imagine, you create.  
 >  
-> Buddha   
+> Gautama Buddha   
 
 ![Cliff Walk, Newport, R.I.](https://github.com/mccurcio/mccurcio/blob/main/header-bg.jpg)
 
