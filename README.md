@@ -1,4 +1,4 @@
-![Cliff Walk, Newport, R.I.](https://github.com/mccurcio/mccurcio.old.landing.page/blob/master/assets/img/header-bg.jpg)
+![Cliff Walk, Newport, R.I.](header-bg.jpg)
 
 > What you think, you become.  
 > What you imagine, you create.  
