@@ -1,8 +1,10 @@
 
+<p align="center">
 > What you think, you become.  
 > What you imagine, you create.  
 >  
 > Gautama Buddha   
+</p>
 
 ![Cliff Walk, Newport, R.I.](https://github.com/mccurcio/mccurcio/blob/main/header-bg.jpg)
 
@@ -66,13 +68,11 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 <br />
 <br />
 
-<h2 align="center">Some of my favorite projects 😇</h2>
+<h2 align="center">Some of my favorite projects</h2>
 <br />
 
 <p align="center">
 
-<a href="https://github.com/YuriDevAT/budget-planner">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mccurcio&repo=budget-planner&theme=tokyonight" />
 </a>
 </p>
 
