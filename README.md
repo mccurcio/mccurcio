@@ -11,7 +11,7 @@
 <br />
 <a href="https://www.linkedin.com/in/mattcurcio"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 
-<a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
+<a href="https://stackoverflow.com/users/851043/oaxacamatt"><img src="<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/https://stackoverflow.com/users/851043/oaxacamatt/r/query">" alt="StackOverflow" /></a>&nbsp;
 
 <a href="https://dev.to/mccurcio"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo" /></a>&nbsp;
 </p>
@@ -24,7 +24,7 @@
 <br />
 
 - I'm currently working on a Python Django project for native versus invasive plants
-- I’m currently learning Python Django using [Django Crash Course by Daniel & Audrey Roy Greenfeld](https://www.roygreenfeld.com/products/django-crash-course) along with [Monetizing Machine
+- I’m currently learning Python Django using [Django Crash Course](https://www.roygreenfeld.com/products/django-crash-course) along with [Monetizing Machine
 Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Serverless/dp/1484238729)
 - I’m looking to collaborate with someone who is working on Python and/or Data Science.
 - I have several passions, teaching, learning Python, film, jazz, rock & roll and travel.
