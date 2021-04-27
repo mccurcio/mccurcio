@@ -4,7 +4,8 @@
 >  
 > Gautama Buddha   
 
-![Cliff Walk, Newport, R.I.](https://github.com/mccurcio/mccurcio/blob/main/header-bg.jpg)
+![Matthew Curcio, PVD](https://github.com/mccurcio/mccurcio/blob/main/header-bg.jpg)
+*Cliff Walk, Newport, R.I.*
 
 **Hello, I'm Matthew Curcio**
 
