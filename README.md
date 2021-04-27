@@ -11,9 +11,7 @@
 <p align="center">
 <br />
 <a href="https://www.linkedin.com/in/mattcurcio"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-
-<a href="https://stackoverflow.com/users/851043/oaxacamatt"><img src="<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/https://stackoverflow.com/users/851043/oaxacamatt/r/query">" alt="StackOverflow" /></a>&nbsp;
-
+<a href="https://stackoverflow.com/users/851043/oaxacamatt"><img src="https://img.shields.io/badge/stackexchange-stackoverflow-orange" alt="StackOverflow" /></a>&nbsp;
 <a href="https://dev.to/mccurcio"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo" /></a>&nbsp;
 </p>
 
@@ -52,15 +50,8 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 
 <br />
 <br />
-
 <p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</p>
-<br />
-<br />
-<p align="center">
-⌚︎ Timezone: Europe/Vienna (GMT +1)
+⌚︎ Timezone: EDT/NYC (GMT -4)
 </p>
 
 <br />
