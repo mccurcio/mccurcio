@@ -4,9 +4,6 @@
 >  
 > Gautama Buddha   
 
-![Matthew Curcio, PVD](https://github.com/mccurcio/mccurcio/blob/main/header-bg.jpg)
-*The Cliff Walk in Newport, Rhode Island*
-
 ---
 
 ### I'm Matthew Curcio
@@ -41,7 +38,6 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 <br />
 
 <p align="center">
-<img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   
 <img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -76,7 +72,10 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mccurcio&layout=compact&theme=radical" />
 </p>
 
+---
 
+![Matthew Curcio, PVD](https://github.com/mccurcio/mccurcio/blob/main/header-bg.jpg)
+*The Cliff Walk in Newport, Rhode Island*
 
 <!--
 - 🔭 I’m currently working on ...
