@@ -20,7 +20,7 @@
 <a href="https://rpubs.com/oaxacamatt"><img src="https://img.shields.io/badge/Linkedin-blue" /></a>&nbsp;
   
 <br />
-![](https://img.shields.io/badge/Linkedin-blue)
+
 <p>
   <h2 align="center"> I am a Data Scientist with aspirations of learning Web Developement with Python </h2>
 </p>
