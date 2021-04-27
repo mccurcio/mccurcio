@@ -9,7 +9,7 @@
 ### I'm Matthew Curcio  
 Scientist & Educator  
 Using R & Python for Statistics & Machine Learning,  
-Seeking Data Analysis Positions,  
+Seeking Data Analysis Positions  
 
 
 <p align="center">
@@ -62,10 +62,10 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mccurcio&layout=compact&theme=radical" />
 </p>
 
-<!--
-![Matthew Curcio, PVD](https://github.com/mccurcio/mccurcio/blob/main/header-bg.jpg)
-*The Cliff Walk in Newport, Rhode Island*
 
+![Matthew Curcio, PVD](https://github.com/mccurcio/mccurcio/blob/main/header-small.jpg)
+*The Cliff Walk in Newport, Rhode Island*
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
