@@ -13,7 +13,7 @@ Scientist, Educator,
 <a href="https://www.linkedin.com/in/mattcurcio"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://rpubs.com/oaxacamatt"><img src="https://img.shields.io/badge/R-276DC3.svg?style=plastic&logo=R&logoColor=white" alt="Rpubs" /></a>&nbsp;
 <a href="https://dev.to/mccurcio"><img src="https://img.shields.io/badge/RStudio-75AADB.svg?style=plastic&logo=RStudio&logoColor=white" alt="RStudio" /></a>&nbsp;
-<a href="https://stackoverflow.com/users/851043/oaxacamatt"><img src="https://img.shields.io/badge/Stack\ Overflow-F58025.svg?style=plastic&logo=Stack\ Overflow&logoColor=white" alt="Stack Overflow" /></a>&nbsp;
+<a href="https://stackoverflow.com/users/851043/oaxacamatt"><img src="https://img.shields.io/badge/Stack Overflow-F58025.svg?style=plastic&logo=Stack Overflow&logoColor=white" alt="StackOverflow" /></a>&nbsp;
 </p>
 <br />
 
