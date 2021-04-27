@@ -21,7 +21,7 @@ Scientist, Educator,
 -->
 <a href="https://ubuntuforums.org/"><img src="https://img.shields.io/badge/Ubuntu-LTS-orange" /></a>&nbsp;
 <a href="https://rpubs.com/oaxacamatt"><img src="https://img.shields.io/badge/RStudio-blue" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/mattcurcio/"><img src="https://img.shields.io/badgelogo=linkedin&color=blue" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mattcurcio/"><img src="https://img.shields.io/badge&logo=linkedin&color=blue" /></a>&nbsp;
   
 <br />
 
