@@ -5,9 +5,11 @@
 > Gautama Buddha   
 
 ![Matthew Curcio, PVD](https://github.com/mccurcio/mccurcio/blob/main/header-bg.jpg)
-*The [Cliff Walk](http://www.cliffwalk.com/) in Newport, Rhode Island*
+*The Cliff Walk in Newport, Rhode Island*
 
-**I'm Matthew Curcio**
+---
+
+### I'm Matthew Curcio
 Scientist, Educator, 
 
 <p align="center">
