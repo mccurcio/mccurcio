@@ -13,20 +13,13 @@
 Scientist, Educator, 
 
 <p align="center">
-<br />
-<!--
-<a href="https://www.linkedin.com/in/mattcurcio"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg/badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://stackoverflow.com/users/851043/oaxacamatt"><img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" /></a>&nbsp;
-<a href="https://dev.to/mccurcio"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo" /></a>&nbsp;
--->
+<br />  
   
 <a href="https://www.linkedin.com/in/mattcurcio"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-
 <a href="https://rpubs.com/oaxacamatt"><img src="https://img.shields.io/badge/R-276DC3.svg?style=plastic&logo=R&logoColor=white" alt="Rpubs" /></a>&nbsp;
+<a href="https://dev.to/mccurcio"><img src="https://img.shields.io/badge/RStudio-75AADB.svg?style=plastic&logo=dev.to&logoColor=white" alt="RStudio" /></a>&nbsp;
 
-<a href="https://dev.to/mccurcio"><img src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=plastic&logo=dev.to&logoColor=white" alt="DevTo" /></a>&nbsp;
-
-
+</p>
 <br />
 
 <p>
