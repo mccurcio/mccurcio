@@ -5,7 +5,7 @@
 > Gautama Buddha   
 
 ![Matthew Curcio, PVD](https://github.com/mccurcio/mccurcio/blob/main/header-bg.jpg)
-*The Cliff Walk in Newport, Rhode Island, is a public pedestrian path open to the Atlantic, lined with mansions from the Robber Baron days of the late 19th century*
+*The [Cliff Walk](http://www.cliffwalk.com/) in Newport, Rhode Island*
 
 **I'm Matthew Curcio**
 Scientist, Educator, 
@@ -19,7 +19,7 @@ Scientist, Educator,
 -->
 <a href="https://ubuntuforums.org/"><img src="https://img.shields.io/badge/Ubuntu-LTS-orange" /></a>&nbsp;
 <a href="https://rpubs.com/oaxacamatt"><img src="https://img.shields.io/badge/RStudio-blue" /></a>&nbsp;
-<a href="https://rpubs.com/oaxacamatt"><img src="https://img.shields.io/badge/Linkedin-blue" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mattcurcio/"><img src="https://img.shields.io/badge/Linkedin-blue" /></a>&nbsp;
   
 <br />
 
