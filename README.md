@@ -14,8 +14,9 @@
 <a href="https://stackoverflow.com/users/851043/oaxacamatt"><img src="https://img.shields.io/badge/stackexchange-stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" /></a>&nbsp;
 <a href="https://dev.to/mccurcio"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo" /></a>&nbsp;
 
-<a href="https://www.ubuntu.com/in/mattcurcio"><img src="https://img.shields.io/static/v1?label=Ubuntu?style=flat-square&color=#E95420" alt="LinkedIn" /></a></p>
+<a href="https://www.ubuntu.com/in/mattcurcio"><img src="https://img.shields.io/static/v1?label=Ubuntu?style=for-the-badge&color=#E95420" alt="LinkedIn" /></a></p>
 
+![](https://img.shields.io/static/v1?label=Ubuntu?style=flat-square&logo=Ubuntu&color=#E95420)
 <br />
 
 <p>
