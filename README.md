@@ -49,13 +49,10 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 <img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </p>
 
-<br />
-<br />
-<p align="center">
-⌚︎ Timezone: EDT/NYC (GMT -4)
-</p>
 
 ---
 
@@ -66,12 +63,10 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mccurcio&layout=compact&theme=radical" />
 </p>
 
----
-
+<!--
 ![Matthew Curcio, PVD](https://github.com/mccurcio/mccurcio/blob/main/header-bg.jpg)
 *The Cliff Walk in Newport, Rhode Island*
 
-<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
