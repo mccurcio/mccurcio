@@ -17,16 +17,11 @@ Seeking Data Analysis Positions
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mattcurcio"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://rpubs.com/oaxacamatt"><img src="https://img.shields.io/badge/R-276DC3.svg?style=plastic&logo=R&logoColor=white" alt="Rpubs" /></a>&nbsp;
-<a href="https://rpubs.com/oaxacamatt"><img src="https://img.shields.io/badge/RStudio-75AADB.svg?style=plastic&logo=RStudio&logoColor=white" alt="RStudio" /></a>&nbsp; 
-<a href="https://stackoverflow.com/users/851043/oaxacamatt"><img src="https://img.shields.io/badge/Stack_Overflow-%23F58025.svg?style=plastic&logo=Stack_Overflow&logoColor=white" alt="Stack Overflow" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mattcurcio"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://rpubs.com/oaxacamatt"><img src="https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="Rpubs" /></a>&nbsp;
+<a href="https://rpubs.com/oaxacamatt"><img src="https://img.shields.io/badge/RStudio-75AADB.svg?style=flat-square&logo=RStudio&logoColor=white" alt="RStudio" /></a>&nbsp; 
+<a href="https://stackoverflow.com/users/851043/oaxacamatt"><img src="https://img.shields.io/badge/Stack_Overflow-%23F58025.svg?style=flat-square&logo=Stack_Overflow&logoColor=white" alt="Stack Overflow" /></a>&nbsp;
 
-</p>
-<br />
-
-<p>
-  <h2 align="center"> I am a Data Scientist with aspirations of learning Web Developement with Python </h2>
 </p>
 <br />
 
