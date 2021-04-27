@@ -6,10 +6,10 @@
 
 ---
 
-### I'm Matthew Curcio
-Using R & Python for Statistics & Machine Learning,
-Seeking Data Analysis Positions,
-Student of Science and Education
+### I'm Matthew Curcio  
+Using R & Python for Statistics & Machine Learning,  
+Seeking Data Analysis Positions,  
+Student of Science and Education  
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mattcurcio"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
