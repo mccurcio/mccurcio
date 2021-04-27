@@ -10,15 +10,14 @@
 
 <p align="center">
 <br />
-<a href="https://www.linkedin.com/in/mattcurcio"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mattcurcio"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg/badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://stackoverflow.com/users/851043/oaxacamatt"><img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" /></a>&nbsp;
 <a href="https://dev.to/mccurcio"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo" /></a>&nbsp;
 <a href="https://ubuntuforums.org/"><img src="https://img.shields.io/badge/Ubuntu-LTS-orange" /></a>&nbsp;
-<a href="https://rpubs.com.org/"><img src="https://img.shields.io/badge/RStudio-blue" /></a>&nbsp;
+<a href="https://rpubs.com/oaxacamatt"><img src="https://img.shields.io/badge/RStudio-blue" /></a>&nbsp;
 
-#75AADB
 <br />
-
+![](https://img.shields.io/badge/Linkedin-blue)
 <p>
   <h2 align="center"> I am a Data Scientist with aspirations of learning Web Developement with Python </h2>
 </p>
