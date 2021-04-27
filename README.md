@@ -7,7 +7,9 @@
 ---
 
 ### I'm Matthew Curcio
-Scientist, Educator, 
+Using R & Python for Statistics & Machine Learning,
+Seeking Data Analysis Positions,
+Student of Science and Education
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mattcurcio"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -27,6 +29,7 @@ Scientist, Educator,
 - I’m currently learning Python Django using [Django Crash Course](https://www.roygreenfeld.com/products/django-crash-course) along with [Monetizing Machine
 Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Serverless/dp/1484238729)
 - I’m looking to collaborate with someone who is working on Python and/or Data Science.
+- I worked on R & RStudio to better understand the various machine learning models and procedures for Data Science projects.
 - I have several passions, teaching, learning Python, film, jazz, rock & roll and travel.
 - Fact: I traveled to the two lowest places on earth. 
 
@@ -52,17 +55,6 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 <br />
 <p align="center">
 ⌚︎ Timezone: EDT/NYC (GMT -4)
-</p>
-
-<br />
-<br />
-
-<h2 align="center">Some of my favorite projects</h2>
-<br />
-
-<p align="center">
-
-</a>
 </p>
 
 ---
