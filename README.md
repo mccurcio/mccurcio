@@ -7,6 +7,24 @@
 ![Matthew Curcio](https://github.com/mccurcio/mccurcio/blob/main/header-small.jpg#center)   
 *The Cliff Walk in Newport, Rhode Island*   
 
+#container {
+    height:100px;
+    line-height:100px;
+}
+
+#container img {
+    vertical-align:middle;
+    max-height:100%;
+}
+
+<div id="container">
+    <img />
+    https://github.com/mccurcio/mccurcio/blob/main/header-small.jpg
+</div>
+
+
+
+
 ---
 
 ### I'm Matthew Curcio  
