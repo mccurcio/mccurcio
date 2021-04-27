@@ -14,9 +14,9 @@
 <a href="https://stackoverflow.com/users/851043/oaxacamatt"><img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" /></a>&nbsp;
 <a href="https://dev.to/mccurcio"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo" /></a>&nbsp;
 <a href="https://ubuntuforums.org/"><img src="https://img.shields.io/badge/Ubuntu-LTS-orange" /></a>&nbsp;
+<a href="https://rpubs.com.org/"><img src="https://img.shields.io/badge/RStudio-blue" /></a>&nbsp;
 
-
-
+#75AADB
 <br />
 
 <p>
