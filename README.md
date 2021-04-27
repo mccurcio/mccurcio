@@ -5,10 +5,8 @@
 > Gautama Buddha   
 
 <p align="center">
-  
 ![Matthew Curcio](https://github.com/mccurcio/mccurcio/blob/main/header-small.jpg)   
 *The Cliff Walk in Newport, Rhode Island*   
-
 </p>
 ---
 
