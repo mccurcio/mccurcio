@@ -11,7 +11,7 @@ Scientist & Educator
 Using R & Python for Statistics & Machine Learning,  
 Seeking Data Analysis Positions  
 
-<!-- <img style="float: center;" src="https://github.com/mccurcio/mccurcio/blob/main/header-small.jpg"> -->{: .center-image }
+<!-- <img style="float: center;" src="https://github.com/mccurcio/mccurcio/blob/main/header-small.jpg"> {: .center-image }-->
 
 <!-- ![Matthew Curcio](https://github.com/mccurcio/mccurcio/blob/main/header-small.jpg){: .center-image }   
 *Cliff Walk, Newport, R.I.* -->
