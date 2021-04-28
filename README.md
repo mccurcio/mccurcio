@@ -16,7 +16,7 @@ Seeking Data Analysis Positions
 <a href="https://www.linkedin.com/in/mattcurcio" target="_blank" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://rpubs.com/oaxacamatt" target="_blank" ><img src="https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="Rpubs" /></a>&nbsp;
 <a href="https://rpubs.com/oaxacamatt" target="_blank" ><img src="https://img.shields.io/badge/RStudio-75AADB.svg?style=flat-square&logo=RStudio&logoColor=white" alt="RStudio" /></a>&nbsp; 
-<a href="https://stackoverflow.com/users/851043/oaxacamatt" target="_blank" ><img src="https://img.shields.io/badge/stackoverflow-F58025.svg?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>&nbsp;
+<a href="https://stackoverflow.com/users/851043/oaxacamatt" target="_blank" ><img src="https://img.shields.io/badge/Stackoverflow-F58025.svg?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>&nbsp;
 <a href="https://mccurcio.github.io/" target="_blank" ><img src="https://img.shields.io/badge/Blog-Website-yellow?style=flat-square" /></a>&nbsp;
 </p>
 
