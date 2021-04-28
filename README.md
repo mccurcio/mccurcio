@@ -20,8 +20,6 @@ Seeking Data Analysis Positions
 <a href="https://mccurcio.github.io/" target="_blank" ><img src="https://img.shields.io/badge/Blog-Website-yellow?style=flat-square" /></a>&nbsp;
 </p>
 
-<br />
-
 ### Links
 
 - I'm currently working on an educational manual explaining machine learning using R and RStudio.
@@ -48,9 +46,6 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 - I have several passions, teaching, learning Python, film, jazz, rock & roll and travel.
 
 - :airplane: Fun fact: I traveled to the two lowest places on earth. 
-
-
-<br />
 
 ---
 
