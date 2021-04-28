@@ -11,14 +11,17 @@ Scientist & Educator
 Using R & Python for Statistics & Machine Learning,  
 Seeking Data Analysis Positions  
 
+<img style="float: center;" src="https://github.com/mccurcio/mccurcio/blob/main/header-small.jpg">
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mattcurcio"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://rpubs.com/oaxacamatt"><img src="https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="Rpubs" /></a>&nbsp;
 <a href="https://rpubs.com/oaxacamatt"><img src="https://img.shields.io/badge/RStudio-75AADB.svg?style=flat-square&logo=RStudio&logoColor=white" alt="RStudio" /></a>&nbsp; 
 <a href="https://stackoverflow.com/users/851043/oaxacamatt"><img src="https://img.shields.io/badge/Stack_Overflow-%23F58025.svg?style=flat-square&logo=Stack_Overflow&logoColor=white" alt="Stack Overflow" /></a>&nbsp;
-  
+
+<!--  
 <a href="https://github.io/mccurcio"><img src="https://img.shields.io/badge/Nucleo-111111.svg?style=flat-square&logo=Nucleo&logoColor=white" alt="Website" /></a>&nbsp;
+-->
 
 </p>
 <br />
