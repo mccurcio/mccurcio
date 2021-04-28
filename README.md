@@ -4,25 +4,20 @@
 >  
 > Gautama Buddha   
 
-![Matthew Curcio](https://github.com/mccurcio/mccurcio/blob/main/header-small.jpg#center)   
+![Matthew Curcio](https://github.com/mccurcio/mccurcio/blob/main/header-small.jpg)   
 *The Cliff Walk in Newport, Rhode Island*   
 
 
+<p class="aligncenter">
+    <img src="https://github.com/mccurcio/mccurcio/blob/main/header-small.jpg" alt="centered image" />
+</p>
 
-<div id="container">
-    <img />
-    https://github.com/mccurcio/mccurcio/blob/main/header-small.jpg
-</div>
 
-#container {
-    height:100px;
-    line-height:100px;
+<style>
+.aligncenter {
+    text-align: center;
 }
-
-#container img {
-    vertical-align:middle;
-    max-height:100%;
-}
+</style>
 
 
 ---
