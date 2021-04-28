@@ -23,7 +23,7 @@ Seeking Data Analysis Positions
 ### Links
 
 - I'm currently working on an educational manual explaining machine learning using R and RStudio.
-    -  <a href="https://github.com/mccurcio/mcc-machine-learning-intro" target="_blank" >Machine Learning Introduction</a> 
+    -  <a href="https://github.com/mccurcio/mcc-machine-learning-intro" target="_blank" rel="noopener noreferrer">Machine Learning Introduction</a> 
     -  <a href="https://github.com/mccurcio/mcc-pca-intro" target="_blank" >Principle Component Analysis</a>
     -  <a href="https://github.com/mccurcio/kaggle-protein-data" target="_blank" >Anti-freeze-protein-classification EDA & PCA</a>
     -  <a href="https://github.com/mccurcio/mcc-logit-intro" target="_blank" >Logistic Regression Intro</a>
