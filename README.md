@@ -26,17 +26,22 @@ Seeking Data Analysis Positions
     -  <a href="https://github.com/mccurcio/mcc-machine-learning-intro" target="_blank" >Machine Learning Introduction</a> 
     -  <a href="https://github.com/mccurcio/mcc-pca-intro" target="_blank" >Principle Component Analysis</a>
     -  <a href="https://github.com/mccurcio/kaggle-protein-data" target="_blank" >Anti-freeze-protein-classification EDA & PCA</a>
+    -  <a href="https://github.com/mccurcio/mcc-logit-intro" target="_blank" >Logistic Regression Intro</a>
     -  <a href="https://github.com/mccurcio/SVM-Intro" target="_blank" >Support vector machines</a>
     -  <a href="https://github.com/mccurcio/Intro-NeuralNetworks" target="_blank" >Neural networks</a>
-    -  More To Follow... Anti-freeze-protein-classification EDA & PCA
+    -  More To Follow...
 
 - <a href="https://github.com/mccurcio/mcc-ds-material" target="_blank" >Data Science resources</a>; this is my personal-favorites list.
+
+- My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf)
 
 - Coursera MOOGs
     - [Course materials](https://github.com/mccurcio/Coursera_Materials)
     - [Data Cleaning Course Project](https://github.com/mccurcio/coursera_getting_cleaning_data)
     - [Exploratory Data Analysis Project](https://github.com/mccurcio/ExData_Plotting1)
-    - 
+    - [Twitter Data Science Project](https://github.com/mccurcio/twitter-ipynb)
+    - [Yelp Data Science Project](https://github.com/mccurcio/yelp-ipynb)
+    - [TF-IDF Investigation](https://github.com/mccurcio/first-look-ml)
 
 - I'm currently working on a Python Django project for native versus invasive plants
 - I’m currently learning Python Django using [Django Crash Course](https://www.roygreenfeld.com/products/django-crash-course) along with [Monetizing Machine
