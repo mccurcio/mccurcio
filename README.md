@@ -22,21 +22,33 @@ Seeking Data Analysis Positions
 
 <br />
 
-<!-- More Info -->
-- I'm currently working on technical manual explaining machine learning using R and RStudio
-    - [Introduction](https://github.com/mccurcio/mcc-machine-learning-intro)
-    - [PCA](https://github.com/mccurcio/mcc-pca-intro)
-    - [Support vector machines](https://github.com/mccurcio/SVM-Intro)
-    - [Neural networks](https://github.com/mccurcio/Intro-NeuralNetworks)
-    - [Machine learning]
+### Links
+
+- I'm currently working on an educational manual explaining machine learning using R and RStudio.
+    -  <a href="https://github.com/mccurcio/mcc-machine-learning-intro" target="_blank" >Machine Learning Introduction</a> 
+    -  <a href="https://github.com/mccurcio/mcc-pca-intro" target="_blank" >Principle Component Analysis</a>
+    -  <a href="https://github.com/mccurcio/SVM-Intro" target="_blank" >Support vector machines</a>
+    -  <a href="https://github.com/mccurcio/Intro-NeuralNetworks" target="_blank" >Neural networks</a>
+    -  More To Follow...
+
+- <a href="https://github.com/mccurcio/mcc-ds-material" target="_blank" >Data Science resources</a>; this is my personal-favorites list.
+
+- Coursera MOOGs
+    - [Course materials](https://github.com/mccurcio/Coursera_Materials)
+    -  More To Follow...
 
 - I'm currently working on a Python Django project for native versus invasive plants
 - I’m currently learning Python Django using [Django Crash Course](https://www.roygreenfeld.com/products/django-crash-course) along with [Monetizing Machine
 Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Serverless/dp/1484238729)
+
 - I’m looking to collaborate with someone who is working on Python and/or Data Science.
+
 - I use R & RStudio to better understand the various machine learning models and procedures for Data Science projects.
+
 - I have several passions, teaching, learning Python, film, jazz, rock & roll and travel.
-- Fact: I traveled to the two lowest places on earth. 
+
+- :airplane: Fun fact: I traveled to the two lowest places on earth. 
+
 
 <br />
 
