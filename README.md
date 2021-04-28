@@ -25,15 +25,18 @@ Seeking Data Analysis Positions
 - I'm currently working on an educational manual explaining machine learning using R and RStudio.
     -  <a href="https://github.com/mccurcio/mcc-machine-learning-intro" target="_blank" >Machine Learning Introduction</a> 
     -  <a href="https://github.com/mccurcio/mcc-pca-intro" target="_blank" >Principle Component Analysis</a>
+    -  <a href="https://github.com/mccurcio/kaggle-protein-data" target="_blank" >Anti-freeze-protein-classification EDA & PCA</a>
     -  <a href="https://github.com/mccurcio/SVM-Intro" target="_blank" >Support vector machines</a>
     -  <a href="https://github.com/mccurcio/Intro-NeuralNetworks" target="_blank" >Neural networks</a>
-    -  More To Follow...
+    -  More To Follow... Anti-freeze-protein-classification EDA & PCA
 
 - <a href="https://github.com/mccurcio/mcc-ds-material" target="_blank" >Data Science resources</a>; this is my personal-favorites list.
 
 - Coursera MOOGs
     - [Course materials](https://github.com/mccurcio/Coursera_Materials)
-    -  More To Follow...
+    - [Data Cleaning Course Project](https://github.com/mccurcio/coursera_getting_cleaning_data)
+    - [Exploratory Data Analysis Project](https://github.com/mccurcio/ExData_Plotting1)
+    - 
 
 - I'm currently working on a Python Django project for native versus invasive plants
 - I’m currently learning Python Django using [Django Crash Course](https://www.roygreenfeld.com/products/django-crash-course) along with [Monetizing Machine
