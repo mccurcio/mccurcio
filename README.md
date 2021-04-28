@@ -11,23 +11,22 @@ Scientist & Educator
 Using R & Python for Statistics & Machine Learning,  
 Seeking Data Analysis Positions  
 
-<!-- <img style="float: center;" src="https://github.com/mccurcio/mccurcio/blob/main/header-small.jpg"> {: .center-image }-->
-
-<!-- ![Matthew Curcio](https://github.com/mccurcio/mccurcio/blob/main/header-small.jpg){: .center-image }   
-*Cliff Walk, Newport, R.I.* -->
-
 <p align="center">
 <a href="https://www.linkedin.com/in/mattcurcio"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  
 <a href="https://rpubs.com/oaxacamatt"><img src="https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="Rpubs" /></a>&nbsp;
-
 <a href="https://rpubs.com/oaxacamatt"><img src="https://img.shields.io/badge/RStudio-75AADB.svg?style=flat-square&logo=RStudio&logoColor=white" alt="RStudio" /></a>&nbsp;
-
 <a href="https://stackoverflow.com/users/851043/oaxacamatt"><img src="https://img.shields.io/badge/stackoverflow-F58025.svg?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>&nbsp;
-
 <a href="https://mccurcio.github.io/"><img src="https://img.shields.io/badge/Blog-Website-yellow?style=flat-square" alt="Website & Notes" /></a>&nbsp;
 </p>
+
 <br />
+
+- I'm currently working on technical manual explaining machine learning using R and RStudio
+    - [Introduction](https://github.com/mccurcio/mcc-machine-learning-intro)
+    - [PCA](https://github.com/mccurcio/mcc-pca-intro)
+    - [Support vector machines](https://github.com/mccurcio/SVM-Intro)
+    - [Neural networks](https://github.com/mccurcio/Intro-NeuralNetworks)
+    - [Machine learning]
 
 - I'm currently working on a Python Django project for native versus invasive plants
 - I’m currently learning Python Django using [Django Crash Course](https://www.roygreenfeld.com/products/django-crash-course) along with [Monetizing Machine
