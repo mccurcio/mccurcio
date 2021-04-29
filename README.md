@@ -81,8 +81,7 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mccurcio&layout=compact&theme=radical" />
 </p>
 
-
-TEST: <a href="#" onclick='window.open("https://www.linkedin.com/in/mattcurcio");return false;'>test</a>
+![Profile views](https://gpvc.arturio.dev/uzor13)  
 
 <!--
 - 🔭 I’m currently working on ...
