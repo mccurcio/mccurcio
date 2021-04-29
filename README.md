@@ -81,7 +81,7 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mccurcio&layout=compact&theme=radical" />
 </p>
 
-![Profile views](https://gpvc.arturio.dev/uzor13)  
+![Profile views](https://gpvc.arturio.dev/mccurcio)  
 
 <!--
 - 🔭 I’m currently working on ...
