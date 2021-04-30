@@ -11,7 +11,7 @@ Scientist & Educator
 Using R & Python for Statistics & Machine Learning,  
 Seeking Data Analysis Positions  
 
-I can be reached at: *matt . curcio . ri @ gmail . com*
+📫 I can be reached at: *matt . curcio . ri @ gmail . com*
 
 <!-- BADGES -->
 <p align="center">
@@ -92,6 +92,5 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
