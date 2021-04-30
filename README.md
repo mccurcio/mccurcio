@@ -22,7 +22,7 @@ Seeking Data Analysis Positions
 <a href="https://mccurcio.github.io/" target="_blank" ><img src="https://img.shields.io/badge/Blog-Website-yellow?style=flat-square" /></a>&nbsp;
 </p>
 
-### Links
+### Projects
 
 - I'm currently working on an educational manual explaining machine learning using R and RStudio.
     -  <a href="https://github.com/mccurcio/mcc-machine-learning-intro" target="_blank" rel="noopener noreferrer">Machine learning introduction</a> 
@@ -65,12 +65,19 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 <br />
 
 <p align="center">
+    
+<img align="left" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   
 <img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
 
 </p>
 
