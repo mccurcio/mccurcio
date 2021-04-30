@@ -11,6 +11,8 @@ Scientist & Educator
 Using R & Python for Statistics & Machine Learning,  
 Seeking Data Analysis Positions  
 
+I can be reached at: matt . curcio . ri @ gmail . com
+
 <!-- BADGES -->
 <p align="center">
 <a href="https://www.linkedin.com/in/mattcurcio" target="_blank" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
