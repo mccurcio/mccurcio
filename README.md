@@ -64,14 +64,12 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 <p align="center">
 
 <img alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-<img alt="RStudio" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rstudio/rstudio.png" />
 <img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
 
 </p>
 
@@ -82,9 +80,9 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mccurcio&theme=radical&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mccurcio&layout=compact&theme=radical" />
-</p>
 
 ![Profile views](https://gpvc.arturio.dev/mccurcio)  
+</p>
 
 <!--
 - 🔭 I’m currently working on ...
@@ -92,6 +90,4 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-
 -->
