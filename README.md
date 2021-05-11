@@ -47,8 +47,8 @@ Seeking Data Analysis Positions
     - [Yelp data science project](https://github.com/mccurcio/yelp-ipynb)
     - [TF-IDF investigation](https://github.com/mccurcio/first-look-ml)
 
-- Check out my "60 Days of Learning" repository. Here I have notes on daily computer work.
-- 
+- Check out my [60 Days of Learning](https://github.com/mccurcio/60_days_of_learning) repository. Here I have notes on daily computer work.
+
 - I’m currently learning Python Django using [Django Crash Course](https://www.roygreenfeld.com/products/django-crash-course) along with [Monetizing Machine
 Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Serverless/dp/1484238729)
 
