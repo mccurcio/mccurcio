@@ -47,7 +47,8 @@ Seeking Data Analysis Positions
     - [Yelp data science project](https://github.com/mccurcio/yelp-ipynb)
     - [TF-IDF investigation](https://github.com/mccurcio/first-look-ml)
 
-- I'm currently working on a Python Django project for native versus invasive plants
+- Check out my "60 Days of Learning" repository. Here I have notes on daily computer work.
+- 
 - I’m currently learning Python Django using [Django Crash Course](https://www.roygreenfeld.com/products/django-crash-course) along with [Monetizing Machine
 Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Serverless/dp/1484238729)
 
@@ -57,7 +58,7 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 
 - I have several passions, teaching, learning Python, film, jazz, rock & roll and travel.
 
-- :airplane: Fun fact: I traveled to the two lowest places on earth. 
+- :airplane: *Fun fact*: I traveled to the two lowest places on earth. 
 
 ---
 
