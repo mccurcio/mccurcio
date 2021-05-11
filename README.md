@@ -35,7 +35,7 @@ Seeking Data Analysis Positions
     -  <a href="https://github.com/mccurcio/Intro-NeuralNetworks" target="_blank" >Neural networks</a>
     -  More To Follow...
 
-- <a href="https://github.com/mccurcio/mcc-ds-material" target="_blank" >Data Science resources</a>; this is my personal-favorites list.
+- [Data Science resources](https://github.com/mccurcio/mcc-ds-material); this is my personal-favorites list. Or you may help me determine useful Data Science questions as a study guide.
 
 - My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf)
 
