@@ -35,9 +35,11 @@ Seeking Data Analysis Positions
     -  <a href="https://github.com/mccurcio/Intro-NeuralNetworks" target="_blank" >Neural networks</a>
     -  More To Follow...
 
-- [Data Science resources](https://github.com/mccurcio/mcc-ds-material); this is my personal-favorites list. Or you may help determine useful [Data Science questions](https://github.com/mccurcio/mcc-ds-material/blob/master/ds_study_guide/mccs_data_science_questions.md) as a study guide.
+- [Data Science resources](https://github.com/mccurcio/mcc-ds-material); this is my personal-favorites list. 
 
-- My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf)
+- Contribute to useful [Data Science questions](https://github.com/mccurcio/mcc-ds-material/blob/master/ds_study_guide/mccs_data_science_questions.md) as a study guide.
+
+- My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf).
 
 - Coursera MOOGs
     - [Course materials](https://github.com/mccurcio/Coursera_Materials)
@@ -50,7 +52,7 @@ Seeking Data Analysis Positions
 - Check out my [60 Days of Learning](https://github.com/mccurcio/60_days_of_learning) repository. Here I have notes on daily computer work.
 
 - I’m currently learning Python Django using [Django Crash Course](https://www.roygreenfeld.com/products/django-crash-course) along with [Monetizing Machine
-Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Serverless/dp/1484238729)
+Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Serverless/dp/1484238729).
 
 - I’m looking to collaborate with someone who is working on Python and/or Data Science.
 
@@ -86,11 +88,3 @@ Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Server
 
 ![Profile views](https://gpvc.arturio.dev/mccurcio)  
 </p>
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
