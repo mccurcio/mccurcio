@@ -7,9 +7,9 @@
 ---
 
 ### I'm Matthew Curcio  
-Scientist & Educator  
+Application Specialist, Scientist & Educator  
 Using R & Python for Statistics & Machine Learning,  
-Seeking Data Analysis Positions  
+Data Analysis and Customer Service are Passions of mine.  
 
 - I can be reached at: *matt . curcio . ri @ gmail . com*
 
