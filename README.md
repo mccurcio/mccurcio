@@ -35,9 +35,9 @@ Data Analysis and Customer Service are Passions of mine.
     -  <a href="https://github.com/mccurcio/Intro-NeuralNetworks" target="_blank" >Neural networks</a>
     -  More To Follow...
 
-- [Data Science resources](https://github.com/mccurcio/mcc-ds-material); this is my personal-favorites list. 
+- [MCC's Data Science resources](https://github.com/mccurcio/mcc-ds-material); this is my personal-favorites list. 
 
-- Contribute to useful [Data Science questions](https://github.com/mccurcio/mcc-ds-material/blob/master/ds_study_guide/mccs_data_science_questions.md) as a study guide.
+- Contribute to useful [MCC's Data Science questions](https://github.com/mccurcio/mcc-ds-material/blob/master/ds_study_guide/mccs_data_science_questions.md) as a study guide.
 
 - My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf).
 
