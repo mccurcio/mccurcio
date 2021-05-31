@@ -38,7 +38,7 @@ Data Analysis and Customer Service are Passions of mine.
 
 - [MCC's Data Science resources](https://github.com/mccurcio/mcc-ds-material); this is my personal-favorites list. 
 
-- Contribute to useful [MCC's Data Science questions](https://github.com/mccurcio/mcc-ds-material/blob/master/ds_study_guide/mccs_data_science_questions.md) as a study guide.
+- Contribute to useful [Data Science questions](https://github.com/mccurcio/mcc-ds-material/blob/master/ds_study_guide/mccs_data_science_questions.md) as a study guide.
 
 - My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf).
 
@@ -51,10 +51,7 @@ Data Analysis and Customer Service are Passions of mine.
     - [TF-IDF investigation](https://github.com/mccurcio/first-look-ml)
 
 - Check out my [MCC_Learning_Library](https://github.com/mccurcio/MCC_Learning_Library) repository. Here I have notes on daily computer work.
-
-- I’m currently learning Python Django using [Django Crash Course](https://www.roygreenfeld.com/products/django-crash-course) along with [Monetizing Machine
-Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Serverless/dp/1484238729).
-
+- 
 - I have several passions, teaching, learning Python, film, jazz, rock & roll and travel.
 
 - :airplane: *Fun fact*: I traveled to the two lowest places on earth. 
