@@ -26,7 +26,7 @@ Data Analysis and Customer Service are Passions of mine.
 
 ### Projects
 
-- I'm currently working on an educational manual explaining machine learning using R and RStudio.
+- Coming soon, my educational manual explaining machine learning using R.
     - [Machine learning introduction](https://github.com/mccurcio/mcc-machine-learning-intro)
     - [Principle component analysis](https://github.com/mccurcio/mcc-pca-intro)
     - [Anti-freeze-protein-classification EDA & PCA](https://github.com/mccurcio/kaggle-protein-data)
