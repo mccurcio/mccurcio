@@ -42,7 +42,7 @@ Data Analysis and Customer Service are Passions of mine.
 
 - My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf).
 
-- Coursera MOOGs
+- Coursera MOOGs - Data Science & Bioinformatics
     - [Course materials](https://github.com/mccurcio/Coursera_Materials)
     - [Data cleaning course project](https://github.com/mccurcio/coursera_getting_cleaning_data)
     - [Exploratory data analysis project](https://github.com/mccurcio/ExData_Plotting1)
