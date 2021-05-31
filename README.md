@@ -51,7 +51,7 @@ Data Analysis and Customer Service are Passions of mine.
     - [TF-IDF investigation](https://github.com/mccurcio/first-look-ml)
 
 - Check out my [MCC_Learning_Library](https://github.com/mccurcio/MCC_Learning_Library) repository. Here I have notes on daily computer work.
-- 
+
 - I have several passions, teaching, learning Python, film, jazz, rock & roll and travel.
 
 - :airplane: *Fun fact*: I traveled to the two lowest places on earth. 
