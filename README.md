@@ -79,7 +79,6 @@ Data Analysis and Customer Service are Passions of mine.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mccurcio&theme=radical&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mccurcio&layout=compact&theme=radical" />
 
 ![Profile views](https://gpvc.arturio.dev/mccurcio)  
 </p>
