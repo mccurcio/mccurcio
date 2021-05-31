@@ -27,13 +27,15 @@ Data Analysis and Customer Service are Passions of mine.
 ### Projects
 
 - I'm currently working on an educational manual explaining machine learning using R and RStudio.
-    -  <a href="https://github.com/mccurcio/mcc-machine-learning-intro" target="_blank" rel="noopener noreferrer">Machine learning introduction</a> 
-    -  <a href="https://github.com/mccurcio/mcc-pca-intro" target="_blank" >Principle component analysis</a>
-    -  <a href="https://github.com/mccurcio/kaggle-protein-data" target="_blank" >Anti-freeze-protein-classification EDA & PCA</a>
-    -  <a href="https://github.com/mccurcio/mcc-logit-intro" target="_blank" >Logistic regression intro</a>
-    -  <a href="https://github.com/mccurcio/SVM-Intro" target="_blank" >Support vector machines</a>
-    -  <a href="https://github.com/mccurcio/Intro-NeuralNetworks" target="_blank" >Neural networks</a>
-    -  More To Follow...
+    - [Machine learning introduction](https://github.com/mccurcio/mcc-machine-learning-intro)
+    - [Principle component analysis](https://github.com/mccurcio/mcc-pca-intro)
+    - [Anti-freeze-protein-classification EDA & PCA](https://github.com/mccurcio/kaggle-protein-data)
+    - [Logistic regression intro](https://github.com/mccurcio/mcc-logit-intro)
+    - [Support vector machines](https://github.com/mccurcio/SVM-Intro)
+    - [Basic Neural networks](https://github.com/mccurcio/Intro-NeuralNetworks)
+    - For these exercises, I use R & RStudio to better understand the various machine learning models and procedures for Data Science projects.
+    - More To Follow...
+
 
 - [MCC's Data Science resources](https://github.com/mccurcio/mcc-ds-material); this is my personal-favorites list. 
 
@@ -53,10 +55,6 @@ Data Analysis and Customer Service are Passions of mine.
 
 - I’m currently learning Python Django using [Django Crash Course](https://www.roygreenfeld.com/products/django-crash-course) along with [Monetizing Machine
 Learning](https://www.amazon.com/Monetizing-Machine-Learning-Applications-Serverless/dp/1484238729).
-
-- I’m looking to collaborate with someone who is working on Python and/or Data Science.
-
-- I use R & RStudio to better understand the various machine learning models and procedures for Data Science projects.
 
 - I have several passions, teaching, learning Python, film, jazz, rock & roll and travel.
 
