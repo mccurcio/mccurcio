@@ -33,7 +33,6 @@ Data Analysis and Customer Service are Passions of mine.
     - [Logistic regression intro](https://github.com/mccurcio/mcc-logit-intro)
     - [Support vector machines](https://github.com/mccurcio/SVM-Intro)
     - [Basic Neural networks](https://github.com/mccurcio/Intro-NeuralNetworks)
-    - For these exercises, I use R & RStudio to better understand machine learning models and Data Science procedures.
     - More To Follow...
 
 
