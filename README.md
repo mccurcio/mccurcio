@@ -1,8 +1,8 @@
 
-> What you think, you become.  
-> What you imagine, you create.  
+>What you think, you become.  
+>What you imagine, you create.  
 >  
-> Gautama Buddha   
+>Buddha   
 
 ---
 
