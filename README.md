@@ -11,9 +11,9 @@ Coming from start-ups & large companies, I apply business intelligence & a custo
 ---
 
 <div align="center">
-What you think, you become.  
-What you imagine, you create.  
-Buddha  
+    <p>What you think, you become.</p>
+    <p>What you imagine, you create.</p>
+    <p>Buddha</p>
 </div>
 
 ---
