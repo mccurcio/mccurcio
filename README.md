@@ -26,12 +26,12 @@ Coming from start-ups & large companies, I apply business intelligence & a custo
 ### Projects
 
 - Coming soon, my educational manual explaining machine learning using R.
-    - [Basic Neural networks](https://github.com/mccurcio/Intro-NeuralNetworks/blob/master/neural-network.pdf)
-    - [Support vector machines](https://github.com/mccurcio/SVM-Intro/blob/master/06-svm.pdf)
-    - [Logistic regression intro](https://github.com/mccurcio/mcc-logit-intro/blob/master/intro-2-logit.pdf)
-    - [Principle component analysis](https://github.com/mccurcio/mcc-pca-intro/blob/master/01-pca-intro-R.pdf)
-    - [Machine learning introduction](https://github.com/mccurcio/mcc-machine-learning-intro/blob/master/mcc-ml-project-info.pdf)
-    - [Anti-freeze-protein-classification EDA & PCA](https://github.com/mccurcio/kaggle-protein-data)
+    - [Basic Neural Networks](https://github.com/mccurcio/Intro-NeuralNetworks/blob/master/neural-network.pdf)
+    - [Support Vector Machines](https://github.com/mccurcio/SVM-Intro/blob/master/06-svm.pdf)
+    - [Logistic Regression Introduction](https://github.com/mccurcio/mcc-logit-intro/blob/master/intro-2-logit.pdf)
+    - [Principle Component Analysis](https://github.com/mccurcio/mcc-pca-intro/blob/master/01-pca-intro-R.pdf)
+    - [Machine Learning Introduction](https://github.com/mccurcio/mcc-machine-learning-intro/blob/master/mcc-ml-project-info.pdf)
+    - [Anti-freeze-Protein Classification, EDA & PCA](https://github.com/mccurcio/kaggle-protein-data)
     - More To Follow...
 
 - [MCC's Data Science resources](https://github.com/mccurcio/mcc-ds-material); this is my personal-favorites list. 
