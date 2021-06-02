@@ -8,8 +8,8 @@
 
 ### I'm Matthew Curcio  
 Application Specialist, Scientist & Educator  
-Using R & Python for Statistics & Machine Learning,  
-Data Analysis and Customer Service are Passions of mine.  
+Integrating the tools R, Python & Data Science to understand the changing business environment we inhabit.
+Coming from small start-ups & large companies, I apply business intelligence & a customer-facing skillset to make positive results
 
 - I can be reached at: *matt . curcio . ri @ gmail . com*
 
