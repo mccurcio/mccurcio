@@ -32,9 +32,7 @@ Coming from start-ups & large companies, I apply business intelligence & a custo
     - [Principle component analysis](https://github.com/mccurcio/mcc-pca-intro/blob/master/01-pca-intro-R.pdf)
     - [Machine learning introduction](https://github.com/mccurcio/mcc-machine-learning-intro/blob/master/mcc-ml-project-info.pdf)
     - [Anti-freeze-protein-classification EDA & PCA](https://github.com/mccurcio/kaggle-protein-data)
-    
     - More To Follow...
-
 
 - [MCC's Data Science resources](https://github.com/mccurcio/mcc-ds-material); this is my personal-favorites list. 
 
