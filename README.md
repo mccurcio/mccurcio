@@ -10,7 +10,7 @@ Coming from start-ups & large companies, I apply business intelligence & a custo
 
 ---
 
-    *What you think, you become. What you imagine, you create*. Buddha  
+   _What you think, you become. What you imagine, you create_. Buddha  
 
 ---
 
