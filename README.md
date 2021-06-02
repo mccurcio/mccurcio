@@ -9,9 +9,9 @@ Coming from start-ups & large companies, I apply business intelligence & a custo
 - I can be reached at: *matt . curcio . ri @ gmail . com*
 
 <div align="center">
-<p style="text-align: center;">What you think, you become.</p>
-<p style="text-align: center;">What you imagine, you create.</p>
-<p style="text-align: right;">Buddha</p>
+What you think, you become.
+What you imagine, you create.
+Buddha
 </div>
 
 ---
