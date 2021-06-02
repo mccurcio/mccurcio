@@ -10,9 +10,7 @@ Coming from start-ups & large companies, I apply business intelligence & a custo
 
 ---
 
-<div align="center">
-    *What you think, you become. What you imagine, you create.* Buddha  
-</div>
+    *What you think, you become. What you imagine, you create*. Buddha  
 
 ---
 
