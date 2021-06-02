@@ -7,9 +7,12 @@
 ---
 
 ### I'm Matthew Curcio  
-- Application Specialist, Scientist & Educator  
-- Integrating the tools R, Python & Data Science to understand the changing business environment we inhabit.  
-- Coming from small start-ups & large companies, I apply business intelligence & a customer-facing skillset to make positive results
+
+Application Specialist, Scientist & Educator  
+
+Integrating the tools R, Python & Data Science to understand the changing business environment we inhabit.  
+
+Coming from small start-ups & large companies, I apply business intelligence & a customer-facing skillset to make positive results
 
 - I can be reached at: *matt . curcio . ri @ gmail . com*
 
