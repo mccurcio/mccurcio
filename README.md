@@ -1,6 +1,6 @@
 ### I'm Matthew Curcio  
 
-Application Specialist, Scientist & Educator  
+Scientist, Application Specialist & Educator  
 
 Integrating the tools R, Python & Data Science to understand the changing business environment we inhabit.  
 
