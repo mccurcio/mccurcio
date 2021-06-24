@@ -52,7 +52,7 @@ Coming from start-ups & large companies, I apply business intelligence & a custo
 
 - I have several passions, teaching, learning Python, film, jazz, rock & roll and travel.
 
-- :airplane: *Fun fact*: I traveled to the two lowest places on earth, visited (stayed in not just drove through ;) 21 US states & 15 countries.
+- :airplane: *Fun fact*: I visited to the two lowest places on earth.
 
 ---
 
