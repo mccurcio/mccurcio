@@ -50,7 +50,7 @@ I have worked in start-ups & large companies, I apply business intelligence & a 
 
 - Check out my [MCC_Learning_Library](https://github.com/mccurcio/MCC_Learning_Library) repository. Here I have notes on daily computer work.
 
-- I have several passions, teaching, learning Python, film, jazz, rock & roll and travel.
+- I have several passions, teaching, learning Python, film, jazz music and travel.
 
 - :airplane: *Fun fact*: I visited to the two lowest places on earth.
 
