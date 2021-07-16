@@ -59,13 +59,6 @@ I have worked in start-ups & large companies, I apply business intelligence & a 
 ### Languages & Tools
 
 <p align="center">
- 
-  <img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
- 
-</p>
-
-
-<p align="center">
    <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
    <code><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
    <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
@@ -76,9 +69,8 @@ I have worked in start-ups & large companies, I apply business intelligence & a 
    <code><img height="50" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></code>
    
    <code><img height="50" src="https://www.vectorlogo.zone/logos/coursera/coursera-ar21.svg"></code>
-   
-   
-   
+   <img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
 </p>
 
 ---
