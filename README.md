@@ -52,7 +52,7 @@ I have worked in start-ups & large companies, I apply business intelligence & a 
 
 - I have several passions, teaching, learning Python, film, jazz music and travel.
 
-- :airplane: *Fun fact*: I visited to the two lowest places on earth.
+- :airplane: *Fun fact*: I visited to the lowest places on earth.
 
 ---
 
