@@ -72,6 +72,10 @@ I have worked in start-ups & large companies, I apply business intelligence & a 
 <img alt="Gimp" width="40px" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/gimp.png" />
 </p>
 
+
+<p align="center">
+  <img alt="Python" width="40px" src="https://camo.githubusercontent.com/c789c0579eb6af5ff1ee255ad50165880108677a041ba3dbe23ce6e8e493779c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d686f72697a6f6e74616c2e737667" /> 
+</p>
 ---
 
 <br />
