@@ -76,6 +76,10 @@ I have worked in start-ups & large companies, I apply business intelligence & a 
    <code><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
    <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
    <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"></code>
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+ 
 </p>
 ---
 
