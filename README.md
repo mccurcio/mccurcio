@@ -75,6 +75,9 @@ I have worked in start-ups & large companies, I apply business intelligence & a 
    <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
    <code><img height="50" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></code>
    
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/coursera/coursera-ar21.svg"></code>
+   
+   
    
 </p>
 
