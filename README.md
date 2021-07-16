@@ -77,6 +77,7 @@ I have worked in start-ups & large companies, I apply business intelligence & a 
    
    
 </p>
+
 ---
 
 <br />
