@@ -20,7 +20,7 @@ I have worked in start-ups & large companies, I apply business intelligence & a 
 <a href="https://rpubs.com/oaxacamatt" ><img src="https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="Rpubs" /></a>&nbsp;
 <a href="https://rpubs.com/oaxacamatt" ><img src="https://img.shields.io/badge/RStudio-75AADB.svg?style=flat-square&logo=RStudio&logoColor=white" alt="RStudio" /></a>&nbsp; 
 <a href="https://stackoverflow.com/users/851043/oaxacamatt" ><img src="https://img.shields.io/badge/StackOverflow-F58025.svg?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>&nbsp;
-<a href="https://mccurcio.github.io/about/" ><img src="https://img.shields.io/badge/About-Matthew-yellow?style=flat-square" /></a>&nbsp;
+#<a href="https://mccurcio.github.io/about/" ><img src="https://img.shields.io/badge/About-Matthew-yellow?style=flat-square" /></a>&nbsp;
 </p>
 
 ### Projects
