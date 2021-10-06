@@ -36,8 +36,6 @@ I have worked in start-ups & large companies, I apply business intelligence & a 
 
 - [MCC's Data Science resources](https://github.com/mccurcio/mcc-ds-material); this is my personal-favorites list. 
 
-- Contribute to useful [Data Science questions](https://github.com/mccurcio/mcc-ds-material/blob/master/ds_study_guide/mccs_data_science_questions.md) as a study guide.
-
 - My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf).
 
 - Coursera MOOGs - *Data Science & Bioinformatics*
