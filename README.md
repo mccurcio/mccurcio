@@ -25,6 +25,8 @@ I have worked in start-ups & large companies, I apply business intelligence & a 
 
 ### Projects
 
+- [MCC's Data Science resources](https://github.com/mccurcio/mcc-ds-material); this is my personal-favorites list. 
+
 - Coming soon, my educational manual explaining machine learning using R.
     - [Basic Neural Networks](https://github.com/mccurcio/Intro-NeuralNetworks/blob/master/neural-network.pdf)
     - [Support Vector Machines](https://github.com/mccurcio/SVM-Intro/blob/master/06-svm.pdf)
@@ -33,8 +35,6 @@ I have worked in start-ups & large companies, I apply business intelligence & a 
     - [Machine Learning Introduction](https://github.com/mccurcio/mcc-machine-learning-intro/blob/master/mcc-ml-project-info.pdf)
     - [Anti-freeze-Protein Classification, EDA & PCA](https://github.com/mccurcio/kaggle-protein-data)
     - More To Follow...
-
-- [MCC's Data Science resources](https://github.com/mccurcio/mcc-ds-material); this is my personal-favorites list. 
 
 - My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf).
 
