@@ -8,7 +8,7 @@ I have worked in start-ups & large companies, I apply business intelligence & a 
 
 - I can be reached at: *matt . curcio . ri @ gmail . com*
 
-- You may also find more information at his [[GitHub Page|https://mccurcio.github.io/]]
+- You may also find more information at his [GitHub Page](https://mccurcio.github.io/)
 
 ---
 
