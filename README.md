@@ -2,17 +2,15 @@
 
 Scientist, Application Specialist & Educator  
 
-Integrating the tools R, Python & Data Science to understand the changing business environment we inhabit.  
+Integrating the tools R, Python, Statistics & Data Science.  
 
-I have worked in start-ups & large companies, I apply business intelligence & a customer-facing skillset to make positive results
-
-- I can be reached at: *matt . curcio . ri @ gmail . com*
+- I can be reached at: *matt.curcio.ri [@] gmail.com*
 
 - You may also find more information at his [GitHub Page](https://mccurcio.github.io/)
 
 ---
 
-   _What you think, you become. What you imagine, you create_. Buddha  
+   _What you think, you become.<br>What you imagine, you create_.<br>Buddha  
 
 ---
 
