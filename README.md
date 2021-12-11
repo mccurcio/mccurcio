@@ -14,6 +14,8 @@ Integrating the tools R, Python, Statistics & Data Science.
 
 ---
 
+### Technical Skills & Links
+
 <!-- BADGES -->
 <p align="center">
 <a href="https://www.linkedin.com/in/mattcurcio" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -23,7 +25,6 @@ Integrating the tools R, Python, Statistics & Data Science.
 <!-- <a href="https://mccurcio.github.io/about/" ><img src="https://img.shields.io/badge/About-Matthew-yellow?style=flat-square" /></a>&nbsp; -->
 </p>
 
-### Technical Skills
 
 <p align="center">
    <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
