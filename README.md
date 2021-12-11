@@ -23,6 +23,23 @@ Integrating the tools R, Python, Statistics & Data Science.
 <!-- <a href="https://mccurcio.github.io/about/" ><img src="https://img.shields.io/badge/About-Matthew-yellow?style=flat-square" /></a>&nbsp; -->
 </p>
 
+### Technical Skills
+
+<p align="center">
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+   <code><img height="50" src="https://img.icons8.com/color/50/000000/css3.png"/></code>
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></code>
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/coursera/coursera-ar21.svg"></code>
+</p>
+
+---
+
 ### Projects
 
 - [MCC's Data Science resources](https://github.com/mccurcio/mcc-ds-material): this is my personal-favorites list. 
@@ -53,23 +70,6 @@ Integrating the tools R, Python, Statistics & Data Science.
 - I have several passions, teaching, film, jazz music and travel.
 
 - :airplane: *Fun fact*: I visited two of the lowest places on earth.
-
----
-
-### Languages & Tools
-
-<p align="center">
-   <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
-   <code><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
-   <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-   <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-   <code><img height="50" src="https://img.icons8.com/color/50/000000/css3.png"/></code>
-   <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-   <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-   <code><img height="50" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></code>
-   <code><img height="50" src="https://www.vectorlogo.zone/logos/coursera/coursera-ar21.svg"></code>
-</p>
 
 ---
 
