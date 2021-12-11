@@ -4,9 +4,9 @@ Scientist, Application Specialist & Educator
 
 Integrating the tools R, Python, Statistics & Data Science.  
 
-- I can be reached at: *matt.curcio.ri [@] gmail.com*
+- You will find my code snippets and other information at: [GitHub Pages](https://mccurcio.github.io/)
 
-- You may also find my code snippets and other information at: [GitHub Pages](https://mccurcio.github.io/)
+- **Contact me at: *matt.curcio.ri [@] gmail.com**
 
 ---
 
