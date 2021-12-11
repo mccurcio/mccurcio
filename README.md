@@ -6,7 +6,7 @@ Integrating the tools R, Python, Statistics & Data Science.
 
 - You will find my code snippets and other information at: [GitHub Pages](https://mccurcio.github.io/)
 
-- **Contact me at: *matt.curcio.ri [@] gmail.com**
+- **Contact me at: matt.curcio.ri [@] gmail.com**
 
 ---
 
