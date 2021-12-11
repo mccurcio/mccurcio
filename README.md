@@ -25,11 +25,11 @@ Integrating the tools R, Python, Statistics & Data Science.
 
 ### Projects
 
-- [MCC's Data Science resources](https://github.com/mccurcio/mcc-ds-material); this is my personal-favorites list. 
+- [MCC's Data Science resources](https://github.com/mccurcio/mcc-ds-material): this is my personal-favorites list. 
 
 - [How to Install Anaconda](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup group.
 
-- Coming soon, my educational manual explaining machine learning using R.
+- Here are some personal projects:
     - [Basic Neural Networks](https://github.com/mccurcio/Intro-NeuralNetworks/blob/master/neural-network.pdf)
     - [Support Vector Machines](https://github.com/mccurcio/SVM-Intro/blob/master/06-svm.pdf)
     - [Logistic Regression Introduction](https://github.com/mccurcio/mcc-logit-intro/blob/master/intro-2-logit.pdf)
@@ -50,7 +50,7 @@ Integrating the tools R, Python, Statistics & Data Science.
 
 - Check out my [MCC_Learning_Library](https://github.com/mccurcio/MCC_Learning_Library) repository. Here I have notes on daily computer work.
 
-- I have several passions, teaching, learning Python, film, jazz music and travel.
+- I have several passions, teaching, film, jazz music and travel.
 
 - :airplane: *Fun fact*: I visited two of the lowest places on earth.
 
