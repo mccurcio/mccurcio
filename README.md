@@ -6,7 +6,7 @@ Integrating the tools R, Python, Statistics & Data Science.
 
 - I can be reached at: *matt.curcio.ri [@] gmail.com*
 
-- You may also find more information at his [GitHub Page](https://mccurcio.github.io/)
+- You may also find my code snippets and other information at: [GitHub Page](https://mccurcio.github.io/)
 
 ---
 
@@ -27,7 +27,7 @@ Integrating the tools R, Python, Statistics & Data Science.
 
 - [MCC's Data Science resources](https://github.com/mccurcio/mcc-ds-material); this is my personal-favorites list. 
 
-- [How to Install Anaconda](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/Boston_Python_Users_Study_Group_11_17_2021.pdf): This is a presentation that I gave to the Boston Python Users Meetup group, Data Science Study group on November 17, 2021
+- [How to Install Anaconda](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup group.
 
 - Coming soon, my educational manual explaining machine learning using R.
     - [Basic Neural Networks](https://github.com/mccurcio/Intro-NeuralNetworks/blob/master/neural-network.pdf)
