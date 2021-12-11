@@ -68,9 +68,7 @@ Integrating the tools R, Python, Statistics & Data Science.
     - [Yelp data science project](https://github.com/mccurcio/yelp-ipynb)
     - [TF-IDF investigation](https://github.com/mccurcio/first-look-ml)
 
-- Check out my [MCC_Learning_Library](https://github.com/mccurcio/MCC_Learning_Library) repository. Here I have notes on daily computer work.
-
-- I have several passions, teaching, film, jazz music and travel.
+- I have several passions film, jazz music and travel.
 
 - :airplane: *Fun fact*: I visited two of the lowest places on earth.
 
