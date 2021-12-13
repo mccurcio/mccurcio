@@ -1,8 +1,8 @@
 ### I'm Matthew Curcio  
 
-Scientist, Application Specialist & Educator  
+- Scientist, Application Specialist & Educator  
 
-Integrating the tools R, Python, Statistics & Data Science.  
+- Integrating the tools R, Python, Statistics & Data Science.  
 
 - My code snippets and other information at: [GitHub Pages](https://mccurcio.github.io/)
 
