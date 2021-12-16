@@ -1,4 +1,4 @@
-### I'm Matthew Curcio  
+### Welcome, I'm Matthew Curcio  
 
 - Scientist, Application Specialist & Educator  
 
