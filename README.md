@@ -41,7 +41,11 @@
 
 ### Projects
 
-- [MCC's Data Science resources](https://github.com/mccurcio/mcc-ds-material): this is my personal-favorites list. 
+- *Under Construction: Fisher's Exact Test & Logistic Regression*
+
+- [MC's Notes & Coding Help](https://mccurcio.github.io/)
+
+- [MC's Data Science resources](https://github.com/mccurcio/mcc-ds-material): this is my personal-favorites list. 
 
 - [How to Install Anaconda](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup group.
 
