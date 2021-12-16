@@ -10,10 +10,6 @@
 
 ---
 
-   _What you think, you become.<br>What you imagine, you create_.<br>Buddha  
-
----
-
 ### Technical Skills
 
 
