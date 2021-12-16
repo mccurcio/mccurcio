@@ -4,7 +4,7 @@
 
 - Integrating the tools R, Python, Statistics & Data Science.  
 
-- Contact me at: matt.curcio.ri [@] gmail.com
+- Contact me at: *matt.curcio.ri[@]gmail.com*
 
 ---
 
