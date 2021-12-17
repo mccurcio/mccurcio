@@ -8,8 +8,9 @@
 
 ---
 
+<!---
 ### Technical Skills
-
+--->
 
 <p align="center">
    <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
