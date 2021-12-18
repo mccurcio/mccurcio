@@ -12,7 +12,6 @@
 
 - Contact me at: *matt.curcio.ri[@]gmail.com*
 
-
 ---
 
 ### Projects
@@ -34,8 +33,6 @@
 
 - [How to Install Anaconda](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup group.
 
-
-
 - My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf).
 
 - Coursera MOOGs - *Data Science & Bioinformatics*
@@ -48,7 +45,9 @@
 
 - I have several passions film, jazz music and travel.
 
-- :airplane: *Fun fact*: I visited two of the lowest places on earth.
+- :airplane: *Fun fact*: I visited two of the lowest places on land with elevations below sea level.
+
+
 
 ---
 
@@ -81,10 +80,12 @@
 </p>
 --->
 
-<br />
+<!---
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mccurcio&theme=radical&show_icons=true" />
 
 ![Profile views](https://gpvc.arturio.dev/mccurcio)  
 </p>
+
+--->
