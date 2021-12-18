@@ -1,3 +1,9 @@
+<!-- BADGES -->
+<p align="center">
+<a href="https://www.linkedin.com/in/mattcurcio" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://rpubs.com/oaxacamatt" ><img src="https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="Rpubs" /></a>&nbsp;
+</p>  
+
 ### Welcome, I'm Matthew Curcio  
 
 - Scientist, Application Specialist & Educator  
@@ -48,7 +54,7 @@
 
 <!---
 ### Technical Skills
---->
+
 
 
 <!-- BADGES -->
@@ -73,6 +79,7 @@
    <code><img height="40" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></code>
    <code><img height="40" src="https://www.vectorlogo.zone/logos/coursera/coursera-ar21.svg"></code>
 </p>
+--->
 
 <br />
 
