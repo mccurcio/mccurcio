@@ -6,24 +6,6 @@
 
 - Contact me at: *matt.curcio.ri[@]gmail.com*
 
----
-
-<!---
-### Technical Skills
---->
-
-<p align="center">
-   <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
-   <a href="https://rpubs.com/oaxacamatt" ><code><img height="40" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code></a>
-   <code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-   <code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-   <code><img height="40" src="https://img.icons8.com/color/50/000000/css3.png"/></code><br>
-   <code><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-   <code><img height="40" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-   <code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-   <code><img height="40" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></code>
-   <code><img height="40" src="https://www.vectorlogo.zone/logos/coursera/coursera-ar21.svg"></code>
-</p>
 
 ---
 
@@ -42,13 +24,7 @@
 
 - *Under Construction: Fisher's Exact Test & Logistic Regression*
 
-- [MC's Notes & Coding Help](https://mccurcio.github.io/)
-
-- [MC's Data Science resources](https://github.com/mccurcio/mcc-ds-material): this is my personal-favorites list. 
-
-- [How to Install Anaconda](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup group.
-
-- Here are some personal projects:
+- My personal projects:
     - [Basic Neural Networks](https://github.com/mccurcio/Intro-NeuralNetworks/blob/master/neural-network.pdf)
     - [Support Vector Machines](https://github.com/mccurcio/SVM-Intro/blob/master/06-svm.pdf)
     - [Logistic Regression Introduction](https://github.com/mccurcio/mcc-logit-intro/blob/master/intro-2-logit.pdf)
@@ -56,6 +32,14 @@
     - [Machine Learning Introduction](https://github.com/mccurcio/mcc-machine-learning-intro/blob/master/mcc-ml-project-info.pdf)
     - [Anti-freeze-Protein Classification, EDA & PCA](https://github.com/mccurcio/kaggle-protein-data)
     - More To Follow...
+
+- [MC's Notes & Coding Help](https://mccurcio.github.io/)
+
+- [MC's Data Science resources](https://github.com/mccurcio/mcc-ds-material): this is my personal-favorites list. 
+
+- [How to Install Anaconda](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup group.
+
+
 
 - My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf).
 
@@ -72,6 +56,23 @@
 - :airplane: *Fun fact*: I visited two of the lowest places on earth.
 
 ---
+
+<!---
+### Technical Skills
+--->
+
+<p align="center">
+   <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+   <a href="https://rpubs.com/oaxacamatt" ><code><img height="40" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code></a>
+   <code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+   <code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+   <code><img height="40" src="https://img.icons8.com/color/50/000000/css3.png"/></code><br>
+   <code><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+   <code><img height="40" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+   <code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+   <code><img height="40" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></code>
+   <code><img height="40" src="https://www.vectorlogo.zone/logos/coursera/coursera-ar21.svg"></code>
+</p>
 
 <br />
 
