@@ -11,9 +11,7 @@
 
 - Integrating the tools R, Python, Statistics & Data Science.  
 
-- Learn a little more [About Me](https://mccurcio.github.io/#About%20Matthew) or by: *matt.curcio.ri[@]gmail.com*
-
-<a href="mailto:matt.curcio.ri[@]gmail.com">Send an email</a>.
+- Learn a little more [About Me](https://mccurcio.github.io/#About%20Matthew) or <a href="mailto:matt.curcio.ri[@]gmail.com">Send an email</a> to *matt.curcio.ri[@]gmail.com* .
 
 ### Projects
 
