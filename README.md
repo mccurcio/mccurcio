@@ -11,7 +11,7 @@
 
 - Integrating the tools R, Python, Statistics & Data Science.  
 
-- Contact me at: *matt.curcio.ri[@]gmail.com*
+- You can learn a little more [About Me](https://mccurcio.github.io/#About%20Matthew) or contact me at: *matt.curcio.ri[@]gmail.com*
 
 ---
 
