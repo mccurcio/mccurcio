@@ -7,24 +7,23 @@
 
 ### Welcome, I'm Matthew Curcio  
 
-- Scientist, Application Specialist & Educator<br>Integrating the tools R, Python, Statistics & Data Science.  
+- Scientist, Application Specialist & Educator: Integrating the tools R, Python, Statistics & Data Science.  
 
 - Learn a little more [About Me](https://mccurcio.github.io/#About%20Matthew) or send an email: <a href="mailto:matt.curcio.ri[@]gmail.com">matt.curcio.ri[@]gmail.com</a>.
 
-### Projects
+### My Personal Projects
+
+
+- [Python Gists](https://github.com/mccurcio/python-gists)
+- [Basic Neural Networks](https://github.com/mccurcio/Intro-NeuralNetworks/blob/master/neural-network.pdf)
+- [Support Vector Machines](https://github.com/mccurcio/SVM-Intro/blob/master/06-svm.pdf)
+- [Logistic Regression Introduction](https://github.com/mccurcio/mcc-logit-intro/blob/master/intro-2-logit.pdf)
+- [Principle Component Analysis](https://github.com/mccurcio/mcc-pca-intro/blob/master/01-pca-intro-R.pdf)
+- [Machine Learning Introduction](https://github.com/mccurcio/mcc-machine-learning-intro/blob/master/mcc-ml-project-info.pdf)
+- [Anti-freeze-Protein Classification, EDA & PCA](https://github.com/mccurcio/kaggle-protein-data)
 
 - *Under Construction: Fisher's Exact Test & Logistic Regression*
 
-- My personal projects:
-
-    - [Python Gists](https://github.com/mccurcio/python-gists)
-    - [Basic Neural Networks](https://github.com/mccurcio/Intro-NeuralNetworks/blob/master/neural-network.pdf)
-    - [Support Vector Machines](https://github.com/mccurcio/SVM-Intro/blob/master/06-svm.pdf)
-    - [Logistic Regression Introduction](https://github.com/mccurcio/mcc-logit-intro/blob/master/intro-2-logit.pdf)
-    - [Principle Component Analysis](https://github.com/mccurcio/mcc-pca-intro/blob/master/01-pca-intro-R.pdf)
-    - [Machine Learning Introduction](https://github.com/mccurcio/mcc-machine-learning-intro/blob/master/mcc-ml-project-info.pdf)
-    - [Anti-freeze-Protein Classification, EDA & PCA](https://github.com/mccurcio/kaggle-protein-data)
-    
 - [MC's Notes & Coding Help](https://mccurcio.github.io/)
 
 - [MC's Data Science resources](https://github.com/mccurcio/mcc-ds-material): these are my personal-favorites *and my learning library*. 
