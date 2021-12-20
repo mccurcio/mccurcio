@@ -42,11 +42,13 @@
 
 - :airplane: *Fun fact*: I visited two of the lowest places on land with elevations below sea level.
 
+---
 
-![Profile views](https://gpvc.arturio.dev/mccurcio) 
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mccurcio&theme=radical&show_icons=true" /> 
+    ![Profile views](https://gpvc.arturio.dev/mccurcio) 
+    <img src="https://github-readme-stats.vercel.app/api?username=mccurcio&theme=radical&show_icons=true" /> 
 </p>
   
 ---
