@@ -7,20 +7,29 @@
 ### My Personal Projects
 
 - [Python Gists](https://github.com/mccurcio/python-gists) 
+
+#### To better understand Machine Learning I wrote several chapters
 - [Basic Neural Networks](https://github.com/mccurcio/Intro-NeuralNetworks/blob/master/neural-network.pdf)
 - [Support Vector Machines](https://github.com/mccurcio/SVM-Intro/blob/master/06-svm.pdf)
 - [Logistic Regression Introduction](https://github.com/mccurcio/mcc-logit-intro/blob/master/intro-2-logit.pdf)
 - [Principle Component Analysis](https://github.com/mccurcio/mcc-pca-intro/blob/master/01-pca-intro-R.pdf)
 - [Machine Learning Introduction](https://github.com/mccurcio/mcc-machine-learning-intro/blob/master/mcc-ml-project-info.pdf)
-- [Anti-freeze-Protein Classification, EDA & PCA](https://github.com/mccurcio/kaggle-protein-data)
-- 
-- [MC's Notes & Coding Help](https://mccurcio.github.io/)
 
-- [MC's Data Science resources](https://github.com/mccurcio/mcc-ds-material): these are my personal-favorites *and my learning library*. 
+#### Several Machine Learning Projects
+
+- [Twitter data science project](https://github.com/mccurcio/twitter-ipynb)
+- [Yelp data science project](https://github.com/mccurcio/yelp-ipynb)
+- [TF-IDF investigation](https://github.com/mccurcio/first-look-ml)
+- [Anti-freeze-Protein Classification, EDA & PCA](https://github.com/mccurcio/kaggle-protein-data)
+
+- [MC's Notes & Coding Help](https://mccurcio.github.io/)
 
 - [How to Install Anaconda](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup group.
 
 - My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf).
+
+
+- [MC's Data Science Resources](https://github.com/mccurcio/mcc-ds-material): these are my personal-favorites *and my learning library*. 
 
 - Coursera MOOGs - *Data Science & Bioinformatics*
     - [Course materials](https://github.com/mccurcio/Coursera_Materials)
@@ -37,10 +46,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mccurcio&theme=radical&show_icons=true" />
-  ![Profile views](https://gpvc.arturio.dev/mccurcio)  
+  <img src="https://github-readme-stats.vercel.app/api?username=mccurcio&theme=radical&show_icons=true" /> 
 </p>
-
+  ![Profile views](https://gpvc.arturio.dev/mccurcio) 
 ---
 
 <!---
