@@ -2,69 +2,73 @@
 
 - Scientist, Application Specialist & Educator
 - Integrating the tools R, Python, Statistics & Data Science.  
-- Learn a little more [About Me](https://mccurcio.github.io/#About%20Matthew) or send an email: <a href="mailto:matt.curcio.ri[@]gmail.com">matt.curcio.ri[@]gmail.com</a>.
+- Learn a little more ['About Me'](https://mccurcio.github.io/#About%20Matthew) or send an email: <a href="mailto:matt.curcio.ri[@]gmail.com">matt.curcio.ri[@]gmail.com</a>.
 
 ### My Personal Projects
 
-####  I wrote several chapters on Machine Learning to better understand the topics
+I wrote several chapters on Machine Learning to better understand the topics.
 - [Basic Neural Networks](https://github.com/mccurcio/Intro-NeuralNetworks/blob/master/neural-network.pdf)
 - [Support Vector Machines](https://github.com/mccurcio/SVM-Intro/blob/master/06-svm.pdf)
 - [Logistic Regression Introduction](https://github.com/mccurcio/mcc-logit-intro/blob/master/intro-2-logit.pdf)
 - [Principle Component Analysis](https://github.com/mccurcio/mcc-pca-intro/blob/master/01-pca-intro-R.pdf)
 - [Machine Learning Introduction](https://github.com/mccurcio/mcc-machine-learning-intro/blob/master/mcc-ml-project-info.pdf)
 
-#### Several Machine Learning Projects
+My Machine Learning Projects
 
 - [Twitter data science project](https://github.com/mccurcio/twitter-ipynb)
 - [Yelp data science project](https://github.com/mccurcio/yelp-ipynb)
 - [TF-IDF investigation](https://github.com/mccurcio/first-look-ml)
 - [Anti-freeze-Protein Classification, EDA & PCA](https://github.com/mccurcio/kaggle-protein-data)
 
+My Python Code Snippets
+
 - [Python Gists](https://github.com/mccurcio/python-gists) 
+- [How to Install Anaconda](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup group.
+
+My Notes and Data Science Information
 
 - [MC's Notes & Coding Help](https://mccurcio.github.io/)
 
-- [How to Install Anaconda](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup group.
-
 - My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf).
 
-- [MC's Data Science Resources](https://github.com/mccurcio/mcc-ds-material): these are my personal-favorites *and my learning library*. 
+- [MC's Data Science Resources](https://github.com/mccurcio/mcc-ds-material): These are my personal-favorites *and my learning library*. 
+
+- <a href="https://rpubs.com/oaxacamatt" ><img src="https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="Rpubs" /></a>&nbsp;
+<a href="https://rpubs.com/oaxacamatt" ><img src="https://img.shields.io/badge/RStudio-75AADB.svg?style=flat-square&logo=RStudio&logoColor=white" alt="RStudio" /></a>&nbsp;
+Here are some of my early [R-notebooks & scripts](https://rpubs.com/oaxacamatt) 
 
 - Coursera MOOGs - *Data Science & Bioinformatics*
     - [Course materials](https://github.com/mccurcio/Coursera_Materials)
     - [Data cleaning course project](https://github.com/mccurcio/coursera_getting_cleaning_data)
     - [Exploratory data analysis project](https://github.com/mccurcio/ExData_Plotting1)
-    - [Twitter data science project](https://github.com/mccurcio/twitter-ipynb)
-    - [Yelp data science project](https://github.com/mccurcio/yelp-ipynb)
-    - [TF-IDF investigation](https://github.com/mccurcio/first-look-ml)
 
 - I have several passions film, jazz music and travel.
 
 - :airplane: *Fun fact*: I visited two of the lowest places on land with elevations below sea level.
 
+<p align="center">
+    <img src="https://gpvc.arturio.dev/mccurcio" />
+</p>
+
 ---
 
-
-
 <p align="center">
-    ![Profile views](https://gpvc.arturio.dev/mccurcio) 
-    <img src="https://github-readme-stats.vercel.app/api?username=mccurcio&theme=radical&show_icons=true" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=mccurcio&theme=radical&show_icons=true" />
 </p>
   
 ---
 
-<!---
 ### Technical Skills
-
-
 
 <!-- BADGES -->
 <p align="center">
 <a href="https://www.linkedin.com/in/mattcurcio" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://rpubs.com/oaxacamatt" ><img src="https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="Rpubs" /></a>&nbsp;
 <a href="https://rpubs.com/oaxacamatt" ><img src="https://img.shields.io/badge/RStudio-75AADB.svg?style=flat-square&logo=RStudio&logoColor=white" alt="RStudio" /></a>&nbsp; 
+<!-- 
 <a href="https://stackoverflow.com/users/851043/oaxacamatt" ><img src="https://img.shields.io/badge/StackOverflow-F58025.svg?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>&nbsp;
-<!-- <a href="https://mccurcio.github.io/about/" ><img src="https://img.shields.io/badge/About-Matthew-yellow?style=flat-square" /></a>&nbsp; -->
+<a href="https://mccurcio.github.io/about/" ><img src="https://img.shields.io/badge/About-Matthew-yellow?style=flat-square" /></a>&nbsp;
+-->
 </p>
 
 
@@ -79,13 +83,7 @@
    <code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
    <code><img height="40" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></code>
    <code><img height="40" src="https://www.vectorlogo.zone/logos/coursera/coursera-ar21.svg"></code>
-    
-    <code><img height="40" src="https://www.vectorlogo.zone/logos/git/git-ar21.svg"></code>
 </p>
-
-
-
-
 
 
 <!-- BADGES 
