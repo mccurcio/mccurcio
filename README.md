@@ -8,7 +8,7 @@
 
 - [Python Gists](https://github.com/mccurcio/python-gists) 
 
-#### To better understand Machine Learning I wrote several chapters
+####  I wrote several chapters on Machine Learning to better understand the topics
 - [Basic Neural Networks](https://github.com/mccurcio/Intro-NeuralNetworks/blob/master/neural-network.pdf)
 - [Support Vector Machines](https://github.com/mccurcio/SVM-Intro/blob/master/06-svm.pdf)
 - [Logistic Regression Introduction](https://github.com/mccurcio/mcc-logit-intro/blob/master/intro-2-logit.pdf)
