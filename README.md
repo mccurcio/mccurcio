@@ -6,8 +6,6 @@
 
 ### My Personal Projects
 
-- [Python Gists](https://github.com/mccurcio/python-gists) 
-
 ####  I wrote several chapters on Machine Learning to better understand the topics
 - [Basic Neural Networks](https://github.com/mccurcio/Intro-NeuralNetworks/blob/master/neural-network.pdf)
 - [Support Vector Machines](https://github.com/mccurcio/SVM-Intro/blob/master/06-svm.pdf)
@@ -22,12 +20,13 @@
 - [TF-IDF investigation](https://github.com/mccurcio/first-look-ml)
 - [Anti-freeze-Protein Classification, EDA & PCA](https://github.com/mccurcio/kaggle-protein-data)
 
+- [Python Gists](https://github.com/mccurcio/python-gists) 
+
 - [MC's Notes & Coding Help](https://mccurcio.github.io/)
 
 - [How to Install Anaconda](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup group.
 
 - My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf).
-
 
 - [MC's Data Science Resources](https://github.com/mccurcio/mcc-ds-material): these are my personal-favorites *and my learning library*. 
 
@@ -44,11 +43,12 @@
 - :airplane: *Fun fact*: I visited two of the lowest places on land with elevations below sea level.
 
 
+![Profile views](https://gpvc.arturio.dev/mccurcio) 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mccurcio&theme=radical&show_icons=true" /> 
 </p>
-  ![Profile views](https://gpvc.arturio.dev/mccurcio) 
+  
 ---
 
 <!---
