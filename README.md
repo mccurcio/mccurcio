@@ -18,7 +18,9 @@
 - *Under Construction: Fisher's Exact Test & Logistic Regression*
 
 - My personal projects:
-    - [Basic Neural Networks](https://github.com/mccurcio/Intro-NeuralNetworks/blob/master/neural-network.pdf)
+
+    1. My [Python Gists]()
+    2. [Basic Neural Networks](https://github.com/mccurcio/Intro-NeuralNetworks/blob/master/neural-network.pdf)
     - [Support Vector Machines](https://github.com/mccurcio/SVM-Intro/blob/master/06-svm.pdf)
     - [Logistic Regression Introduction](https://github.com/mccurcio/mcc-logit-intro/blob/master/intro-2-logit.pdf)
     - [Principle Component Analysis](https://github.com/mccurcio/mcc-pca-intro/blob/master/01-pca-intro-R.pdf)
