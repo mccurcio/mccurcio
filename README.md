@@ -30,7 +30,7 @@
 
 - [MC's Notes & Coding Help](https://mccurcio.github.io/)
 
-- [MC's Data Science resources](https://github.com/mccurcio/mcc-ds-material): this is my personal-favorites list. 
+- [MC's Data Science resources](https://github.com/mccurcio/mcc-ds-material): these are my personal-favorites *and* learning library. 
 
 - [How to Install Anaconda](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup group.
 
