@@ -13,7 +13,7 @@ I wrote several chapters on Machine Learning to better understand the topics.
 - [Principle Component Analysis](https://github.com/mccurcio/mcc-pca-intro/blob/master/01-pca-intro-R.pdf)
 - [Machine Learning Introduction](https://github.com/mccurcio/mcc-machine-learning-intro/blob/master/mcc-ml-project-info.pdf)
 
-My Machine Learning Projects
+My Data Science Projects
 
 - [Twitter data science project](https://github.com/mccurcio/twitter-ipynb)
 - [Yelp data science project](https://github.com/mccurcio/yelp-ipynb)
