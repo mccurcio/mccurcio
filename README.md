@@ -19,6 +19,7 @@ My Data Science Projects
 - [Yelp data science project](https://github.com/mccurcio/yelp-ipynb)
 - [TF-IDF investigation](https://github.com/mccurcio/first-look-ml)
 - [Anti-freeze-Protein Classification, EDA & PCA](https://github.com/mccurcio/kaggle-protein-data)
+- *I am in the process of putting other finished material up here SOON*.
 
 My Python Code Snippets
 
