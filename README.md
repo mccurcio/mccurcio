@@ -22,6 +22,7 @@ My Data Science Projects
 
 My Python Code Snippets
 
+- *Lightning Talk*: [Getting Started with Python](https://youtu.be/ZbwRktS7iz8?t=4446) for the group *Women Who Code Philadelphia*
 - [Python Gists](https://github.com/mccurcio/python-gists) 
 - [How to Install Anaconda](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup group.
 
