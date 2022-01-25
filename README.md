@@ -15,7 +15,7 @@ I wrote several chapters on Machine Learning to better understand the topics.
 
 My Data Science Projects
 
-- [Logistic Regression Report](https://mccurcio.github.io/Logistic_with_R/2022-01-03-fhs-logit-report.html)
+- [Logistic Regression Report](https://github.com/mccurcio/Logistic_with_R/blob/main/2022-fhs-logit-report.pdf)
 - [Twitter data science project](https://github.com/mccurcio/twitter-ipynb)
 - [Yelp data science project](https://github.com/mccurcio/yelp-ipynb)
 - [TF-IDF investigation](https://github.com/mccurcio/first-look-ml)
