@@ -2,7 +2,7 @@
 
 - Scientist, Application Specialist & Educator
 - Integrating the tools R, Python, Statistics & Data Science.  
-- Learn a little more *Under Construction* or send an email: <a href="mailto:matt.curcio.ri[@]gmail.com">matt.curcio.ri[@]gmail.com</a> 
+- Learn more *About Me-Under Construction* or send an email: <a href="mailto:matt.curcio.ri[@]gmail.com">matt.curcio.ri[@]gmail.com</a> 
 
 ### My Personal Projects
 
