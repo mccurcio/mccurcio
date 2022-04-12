@@ -2,7 +2,7 @@
 
 - Scientist, Application Specialist & Educator
 - Integrating the tools R, Python, Statistics & Data Science.  
-- Learn more *About Me-Under Construction* or send an email: <a href="mailto:matt.curcio.ri[@]gmail.com">matt.curcio.ri[@]gmail.com</a> 
+- Learn more *About Me*[Under Construction](https://mccurcio.github.io) or send an email: <a href="mailto:matt.curcio.ri[@]gmail.com">matt.curcio.ri[@]gmail.com</a> 
 
 ### My Personal Projects
 
@@ -30,7 +30,7 @@ My Python Code Snippets
 
 My Notes and Data Science Information
 
-- [MC's Notes & Coding Help](https://mccurcio.github.io/)
+- [MC's Notes & Coding Help]
 
 - My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf).
 
