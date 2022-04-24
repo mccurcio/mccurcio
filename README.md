@@ -13,15 +13,6 @@ I wrote several chapters on Machine Learning to better understand the topics.
 - [Basic Neural Networks](https://github.com/mccurcio/Intro-NeuralNetworks/blob/master/neural-network.pdf)
 - [Machine Learning Introduction](https://github.com/mccurcio/mcc-machine-learning-intro/blob/master/mcc-ml-project-info.pdf)
 
-My Data Science Projects
-
-- [Logistic Regression Report](https://github.com/mccurcio/Logistic_with_R/blob/main/2022-fhs-logit-report.pdf)
-- [Twitter data science project](https://github.com/mccurcio/twitter-ipynb)
-- [Yelp data science project](https://github.com/mccurcio/yelp-ipynb)
-- [TF-IDF investigation](https://github.com/mccurcio/first-look-ml)
-- [Anti-freeze-Protein Classification, EDA & PCA](https://github.com/mccurcio/kaggle-protein-data)
-- *I am in the process of putting other finished material up here SOON*.
-
 My Lightning Talks
 
 - [Getting Started with Python](https://youtu.be/ZbwRktS7iz8?t=4446) for the group *Women Who Code Philadelphia*
