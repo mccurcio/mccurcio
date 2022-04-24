@@ -3,7 +3,7 @@
 - Scientist, Application Specialist & Educator
 - Integrating the tools R, Python, Statistics & Data Science.  
 - About Me [Under Construction](https://mccurcio.github.io)
-- 
+
 ### My Personal Projects
 
 I wrote several chapters on Machine Learning to better understand the topics.
