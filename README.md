@@ -22,17 +22,13 @@ My Data Science Projects
 - [Anti-freeze-Protein Classification, EDA & PCA](https://github.com/mccurcio/kaggle-protein-data)
 - *I am in the process of putting other finished material up here SOON*.
 
-My Python Code Snippets
+My Lightning Talks
 
-- *Lightning Talk*: [Getting Started with Python](https://youtu.be/ZbwRktS7iz8?t=4446) for the group *Women Who Code Philadelphia*
-- [Python Gists](https://github.com/mccurcio/python-gists) 
+- [Getting Started with Python](https://youtu.be/ZbwRktS7iz8?t=4446) for the group *Women Who Code Philadelphia*
 - [How to Install Anaconda](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup group.
+- My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf).
 
 My Notes and Data Science Information
-
-- [MC's Notes & Coding Help]
-
-- My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf).
 
 - [MC's Data Science Resources](https://github.com/mccurcio/mcc-ds-material): These are my personal-favorites *and my learning library*. 
 
