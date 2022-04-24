@@ -2,8 +2,8 @@
 
 - Scientist, Application Specialist & Educator
 - Integrating the tools R, Python, Statistics & Data Science.  
-- Learn more *About Me* [Under Construction](https://mccurcio.github.io) or send an email: <a href="mailto:matt.curcio.ri[@]gmail.com">matt.curcio.ri[@]gmail.com</a> 
-
+- About Me [Under Construction](https://mccurcio.github.io)
+- 
 ### My Personal Projects
 
 I wrote several chapters on Machine Learning to better understand the topics.
