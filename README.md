@@ -32,10 +32,6 @@ My Notes and Data Science Information
 
 - [MC's Data Science Resources](https://github.com/mccurcio/mcc-ds-material): These are my personal-favorites *and my learning library*. 
 
-- <a href="https://rpubs.com/oaxacamatt" ><img src="https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="Rpubs" /></a>&nbsp;
-<a href="https://rpubs.com/oaxacamatt" ><img src="https://img.shields.io/badge/RStudio-75AADB.svg?style=flat-square&logo=RStudio&logoColor=white" alt="RStudio" /></a>&nbsp;
-Here are some of my early [R-notebooks & scripts](https://rpubs.com/oaxacamatt) 
-
 - Coursera MOOGs - *Data Science & Bioinformatics*
     - [Course materials](https://github.com/mccurcio/Coursera_Materials)
     - [Data cleaning course project](https://github.com/mccurcio/coursera_getting_cleaning_data)
