@@ -2,7 +2,7 @@
 
 - Scientist, Application Specialist & Educator
 - Integrating the tools R, Python, Statistics & Data Science.  
-- [Find my personal Data Science site.](https://mccurcio.github.io)
+- [Find my personal Data Science Notes site.](https://mccurcio.github.io)
 
 ### My Personal Projects
 
