@@ -23,11 +23,6 @@ My Notes and Data Science Information
 
 - [MC's Data Science Resources](https://github.com/mccurcio/mcc-ds-material): These are my personal-favorites *and my learning library*. 
 
-- Coursera MOOGs - *Data Science & Bioinformatics*
-    - [Course materials](https://github.com/mccurcio/Coursera_Materials)
-    - [Data cleaning course project](https://github.com/mccurcio/coursera_getting_cleaning_data)
-    - [Exploratory data analysis project](https://github.com/mccurcio/ExData_Plotting1)
-
 - I have several passions film, jazz music and travel.
 
 - :airplane: *Fun fact*: I visited two of the lowest places on land with elevations below sea level.
