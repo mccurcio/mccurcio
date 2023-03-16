@@ -11,7 +11,6 @@
    <a href="https://rpubs.com/oaxacamatt" ><code><img height="40" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code></a>
    <code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
    <code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-   <code><img height="40" src="https://img.icons8.com/color/50/000000/css3.png"/></code>
    <code><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
    <code><img height="40" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
    <code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
