@@ -16,6 +16,8 @@
    <code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
    <code><img height="40" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></code>
    <code><img height="40" src="https://www.vectorlogo.zone/logos/coursera/coursera-ar21.svg"></code>
+   <code><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+   <code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 </p>
 
 ### My Personal Projects
