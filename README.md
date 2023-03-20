@@ -29,8 +29,9 @@ I wrote several chapters on Machine Learning to better understand the topics.
 - [Basic Neural Networks](https://github.com/mccurcio/Intro-NeuralNetworks/blob/master/neural-network.pdf)
 - [Machine Learning Introduction](https://github.com/mccurcio/mcc-machine-learning-intro/blob/master/mcc-ml-project-info.pdf)
 
-My Lightning Talks
+My Presentations
 
+- [Debugging python without using print statements](https://github.com/mccurcio/pdb_training_4_boston_python)
 - [Getting Started with Python](https://youtu.be/ZbwRktS7iz8?t=4446) for the group *Women Who Code Philadelphia*
 - [How to Install Anaconda](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup group.
 - My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf).
@@ -39,7 +40,7 @@ My Notes and Data Science Information
 
 - [MC's Data Science Resources](https://github.com/mccurcio/mcc-ds-material): These are my personal-favorites *and my learning library*. 
 
-- I have several passions film, jazz music and travel.
+- I have several passions film, jazz music, hiking and travel.
 
 - :airplane: *Fun fact*: I visited two of the lowest places on land with elevations below sea level.
 
