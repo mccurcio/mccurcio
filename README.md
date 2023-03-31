@@ -1,8 +1,9 @@
 ### Welcome, I'm Matthew Curcio  
 
-- Scientist, Application Specialist & Educator
+'*I make science easier to understand.*'
+
+- Scientist, Sales Professional & Educator
 - Integrating the tools R, Python, Statistics & Data Science.  
-- [Find my personal Data Science Notes site.](https://mccurcio.github.io)
 
 ### Technical Skills
 
@@ -20,6 +21,10 @@
    <code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 </p>
 
+### Bootcamp Projects
+
+- [AB-Testing](https://github.com/mccurcio/AB-Testing)
+
 ### My Personal Projects
 
 I wrote several chapters on Machine Learning to better understand the topics.
@@ -28,17 +33,18 @@ I wrote several chapters on Machine Learning to better understand the topics.
 - [Principle Component Analysis](https://github.com/mccurcio/mcc-pca-intro/blob/master/01-pca-intro-R.pdf)
 - [Basic Neural Networks](https://github.com/mccurcio/Intro-NeuralNetworks/blob/master/neural-network.pdf)
 - [Machine Learning Introduction](https://github.com/mccurcio/mcc-machine-learning-intro/blob/master/mcc-ml-project-info.pdf)
+- [Find my personal Data Science Notes site.](https://mccurcio.github.io)
+- [MC's Data Science Resources](https://github.com/mccurcio/mcc-ds-material): These are my personal-favorites *and my learning library*. 
 
-My Presentations
 
-- [Debugging python without using print statements](https://github.com/mccurcio/pdb_training_4_boston_python)
+### My Presentations
+
+- [Debugging Python With PDB; without using print statements](https://github.com/mccurcio/pdb_training_4_boston_python)
 - [Getting Started with Python](https://youtu.be/ZbwRktS7iz8?t=4446) for the group *Women Who Code Philadelphia*
 - [How to Install Anaconda](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup group.
 - My Career Devs presentation on [Pseudo-Code](https://github.com/mccurcio/pseudocode-flowchart-pdf).
 
-My Notes and Data Science Information
-
-- [MC's Data Science Resources](https://github.com/mccurcio/mcc-ds-material): These are my personal-favorites *and my learning library*. 
+### About Me
 
 - I have several passions film, jazz music, hiking and travel.
 
