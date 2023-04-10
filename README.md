@@ -1,6 +1,6 @@
 ### Welcome, I'm Matthew Curcio  
 
-'*I make science easier to understand.*'
+'*Always a scientist first*'
 
 - Scientist, Sales Professional & Educator
 - Integrating the tools R, Python, Statistics & Data Science.  
