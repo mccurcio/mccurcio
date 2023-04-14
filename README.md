@@ -23,7 +23,8 @@
 
 ### Bootcamp Projects
 
-- [AB-Testing](https://github.com/mccurcio/AB-Testing)
+- [AB-Testing: catsVSdogs.com](https://github.com/mccurcio/AB-Testing)
+- [Churn Analysis & Modeling Of AD&D](https://github.com/mccurcio/Churn_Analysis_Modeling)
 
 ### My Personal Projects
 
