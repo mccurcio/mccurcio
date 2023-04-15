@@ -1,6 +1,6 @@
 ### Welcome, I'm Matthew Curcio  
 
-'*Always a scientist first*'
+'*Always a scientist first* '
 
 - Scientist, Sales Professional & Educator
 - Integrating the tools R, Python, Statistics & Data Science.  
@@ -50,35 +50,3 @@ I wrote several chapters on Machine Learning to better understand the topics.
 - I have several passions film, jazz music, hiking and travel.
 
 - :airplane: *Fun fact*: I visited two of the lowest places on land with elevations below sea level.
-
-<p align="center">
-    <img src="https://gpvc.arturio.dev/mccurcio" />
-</p>
-
-
-
-
-
-<!-- 
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mccurcio&theme=radical&show_icons=true" />
-</p>
-  
-<p align="center">
-
-<a href="https://www.linkedin.com/in/mattcurcio" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://rpubs.com/oaxacamatt" ><img src="https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="Rpubs" /></a>&nbsp;
-<a href="https://rpubs.com/oaxacamatt" ><img src="https://img.shields.io/badge/RStudio-75AADB.svg?style=flat-square&logo=RStudio&logoColor=white" alt="RStudio" /></a>&nbsp; 
-<a href="https://stackoverflow.com/users/851043/oaxacamatt" ><img src="https://img.shields.io/badge/StackOverflow-F58025.svg?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>&nbsp;
-<a href="https://mccurcio.github.io/about/" ><img src="https://img.shields.io/badge/About-Matthew-yellow?style=flat-square" /></a>&nbsp;
-
-</p>
-
-BADGES 
-<p align="center">
-<a href="https://www.linkedin.com/in/mattcurcio" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://rpubs.com/oaxacamatt" ><img src="https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="Rpubs" /></a>&nbsp;
-</p>  
-
--->
