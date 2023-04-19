@@ -4,7 +4,6 @@
 
 - Scientist, Sales Professional & Educator
 - Integrating the tools R, Python, Statistics & Data Science.  
-- More to come
 
 ### Technical Skills
 
@@ -26,6 +25,7 @@
 
 - [AB-Testing: catsVSdogs.com](https://github.com/mccurcio/AB-Testing)
 - [Churn Analysis & Modeling Of AD&D](https://github.com/mccurcio/Churn_Analysis_Modeling)
+- More to come
 
 ### My Personal Projects
 
