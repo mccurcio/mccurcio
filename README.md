@@ -29,7 +29,7 @@
 ### My Personal Projects
 
 I wrote several chapters on Machine Learning to better understand the topics.
-- [Framingham Heart Study Using Logit](https://github.com/mccurcio/Logistic_with_R)
+- [Framingham Heart Study Using Logit](https://github.com/mccurcio/Logistic_with_R/blob/main/2022-fhs-logit-report.pdf)
 - [Logistic Regression Introduction](https://github.com/mccurcio/mcc-logit-intro/blob/master/intro-2-logit.pdf)
 - [Support Vector Machines](https://github.com/mccurcio/SVM-Intro/blob/master/06-svm.pdf)
 - [Principle Component Analysis](https://github.com/mccurcio/mcc-pca-intro/blob/master/01-pca-intro-R.pdf)
