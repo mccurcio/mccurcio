@@ -4,6 +4,7 @@
 
 - Scientist, Sales Professional & Educator
 - Integrating the tools R, Python, Statistics & Data Science.  
+- More to come
 
 ### Technical Skills
 
