@@ -21,13 +21,12 @@
    <code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 </p>
 
-### Bootcamp Projects
+### Python Projects
 
 - [AB-Testing: catsVSdogs.com](https://github.com/mccurcio/AB-Testing)
 - [Churn Analysis & Modeling Of AD&D](https://github.com/mccurcio/Churn_Analysis_Modeling)
-- More to come
 
-### My Personal Projects
+### R Projects
 
 I wrote several chapters on Machine Learning to better understand the topics.
 - [Framingham Heart Study Using Logit](https://github.com/mccurcio/Logistic_with_R/blob/main/2022-fhs-logit-report.pdf)
@@ -49,6 +48,6 @@ I wrote several chapters on Machine Learning to better understand the topics.
 
 ### About Me
 
-- I have several passions film, jazz music, hiking and travel.
+- I have several passions film, jazz music, hiking, and travel.
 
 - :airplane: *Fun fact*: I visited two of the lowest places on land with elevations below sea level.
